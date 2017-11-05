@@ -1,0 +1,1959 @@
+<!DOCTYPE html><html><head>
+<meta charset="GBK">
+	<title>【荣耀9 4GB RAM/全网通参数】荣耀 9 4GB RAM/全网通手机参数_规格_性能_功能-ZOL中关村在线</title>
+	<meta name="keywords" content="9 4GB RAM/全网通参数,荣耀9 4GB RAM/全网通参数,荣耀9 4GB RAM/全网通规格,荣耀9 4GB RAM/全网通性能,荣耀9 4GB RAM/全网通功能">
+	<meta name="description" content="ZOL中关村在线荣耀9 4GB RAM/全网通手机参数提供最全的荣耀9 4GB RAM/全网通参数、荣耀9 4GB RAM/全网通规格、荣耀9 4GB RAM/全网通性能、荣耀9 4GB RAM/全网通功能介绍,为您购买荣耀9 4GB RAM/全网通手机提供有价值的参考">
+<meta http-equiv="Cache-Control" content="no-siteapp">
+	<meta http-equiv="Cache-Control" content="no-transform">
+	<meta name="applicable-device" content="pc">
+	<meta http-equiv="mobile-agent" content="format=xhtml; url=http://wap.zol.com.cn/1168/1167243/param.html">
+<meta http-equiv="mobile-agent" content="format=html5; url=http://wap.zol.com.cn/1168/1167243/param.html">
+<meta name="mobile-agent" content="format=wml;url=http://wap.zol.com.cn/1168/1167243/param.html">
+<meta name="mobile-agent" content="format=xhtml;url=http://wap.zol.com.cn/1168/1167243/param.html">
+<link rel="alternate" media="only screen and(max-width:640px)" href="http://wap.zol.com.cn/1168/1167243/param.html">
+<script src="//datax.baidu.com/x.js?si=&amp;dm=www.zol.com.cn"></script><script src="https://pagead2.googlesyndication.com/pub-config/r20160913/ca-pub-8831771699398612.js"></script><script>(function(){var a=1,d="http://wap.zol.com.cn/1168/1167243/param.html",b=document.cookie,c=document.referrer;b&&b.match(/mobile_agent_global_dapter=([^;$]+)/)&&(a=b.match(/mobile_agent_global_dapter=([^;$]+)/)[1]);if(1===a&&""!==d&&(/AppleWebKit.*Mobile/i.test(navigator.userAgent)||/MIDP|SymbianOS|NOKIA|SAMSUNG|LG|NEC|TCL|Alcatel|BIRD|DBTEL|Dopod|PHILIPS|HAIER|LENOVO|MOT-|Nokia|SonyEricsson|SIE-|Amoi|ZTE/.test(navigator.userAgent))&&0>window.location.href.indexOf("?via=")){a=new Date;c=""===c?"none":-1<c.indexOf("?")?c+"&pcjump=1":c+"?pcjump=1";b&&(a.setDate(a.getDate()+1),document.cookie="PC2MRealRef="+escape(c)+";expires="+a.toGMTString()+
+"; domain=.zol.com.cn; path=/");try{/Android|Windows Phone|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)&&(window.location.href=d)}catch(e){}}})();</script>
+<style type="text/css" rel="stylesheet">
+.pi-57 .param-icon span {background-image:url(http://icon.zol-img.com.cn/products/product2011/firstBlock/pi-57.png); background-repeat:no-repeat}        
+</style> 
+<link href="http://s.zol-img.com.cn/d/Pro/Pro_param_v3.css?v=36891" rel="stylesheet">
+<script type="text/javascript" src="http://icon.zol-img.com.cn/swfobject.js"></script><script type="text/javascript" src="http://p.zol-img.com.cn/detail_ad/detail.js"></script><script type="text/javascript" src="http://p.zol-img.com.cn/detail_ad/detail_57.js"></script><script type="text/javascript" src="http://p.zol-img.com.cn/detail_ad/detail_57_50840.js"></script><script type="text/javascript">
+<!--
+    var pageType    = 'Detail';
+    var subPageType = 'Param';
+    var subcateId   = '57';
+    var manuId      = '50840';
+    var proId       = '1167243';
+    var proName     = "荣耀9（4GB RAM/全网通）";
+    var seriesId    = '22337';
+    var subcateName = '手机';
+    var manuName    = '荣耀';
+    var pv_subcatid = subcateId;
+//-->
+</script>
+<base target="_blank">
+<link rel="preload" href="https://adservice.google.com/adsid/integrator.js?domain=detail.zol.com.cn"><script type="text/javascript" src="https://adservice.google.com/adsid/integrator.js?domain=detail.zol.com.cn"></script><link rel="prefetch" href="https://securepubads.g.doubleclick.net/static/3p_cookie.html"><link href="//icon.zol-img.com.cn/group/css/zLoginDialog.css" rel="stylesheet"><link id="zSearchSuggestCSS" href="http://icon.zol-img.com.cn/public/css/suggest20150320.css" rel="stylesheet"></head>
+
+<body>
+	
+<div class="global-sitenav">
+	<div class="sitenav-inner">
+		<div id="J_NavLoginBar">
+			<!--sitenav-login-bar-->
+			<div class="sitenav-login-bar">
+				<div class="sitenav-login-links"> 
+					<a href="http://service.zol.com.cn/user/api/weixin/jump.php?from=220" target="_self" class="sitenav-weixin" title="使用微信登录"></a>
+					<a href="http://service.zol.com.cn/user/api/qq/libs/oauth/redirect_to_login.php?from=220" target="_blank" class="sitenav-qq" title="使用腾讯QQ登录"></a>
+					<a href="http://service.zol.com.cn/user/api/sina/jump.php?from=220" target="_blank" class="sitenav-weibo" title="使用新浪微博登录"></a>
+				</div>
+				<div id="J_NavLogin" class="sitenav-login-box">
+					<a id="J_NavLoginLink" href="https://service.zol.com.cn/user/login.php" target="_self" class="sitenav-login-link">登录</a>
+					<div class="sitenav-login-form">
+						<iframe id="ZOL_SMALL_LOGIN" src="" width="190" height="204" frameborder="0" scrolling="no" style="vertical-align:middle"></iframe>
+					</div>
+				</div>
+			</div>
+			<!--//sitenav-login-bar-->
+		</div>
+		
+		<!--sitenav-links-->
+		<div class="sitenav-links">
+			<a href="http://www.zol.com.cn" class="zol-link" target="_blank">中关村在线</a>
+			
+			<!--sitenav-personal-center-->
+			<div id="J_NavGroupSite" class="sitenav-groupsite"> 
+				<span class="sitenav-trigger">网站导航<i></i></span>
+				<div class="groupsite-sitemap-body"> 
+					<ul class="sitemap-items">
+						<li>
+							<span class="sitemap-sub-title">网站功能</span>
+                            							<a href="http://detail.zol.com.cn" target="_blank">查报价</a>
+                            							<a href="http://top.zol.com.cn/" target="_blank">排行榜</a>
+                            							<a href="http://www.zol.com/" target="_blank">商城</a>
+                            							<a href="http://tuan.zol.com/" target="_blank">团购</a>
+                            							<a href="http://dealer.zol.com.cn/" target="_blank">经销商</a>
+                            							<a href="http://b.zol.com.cn/qy/" target="_blank">商家库</a>
+                            							<a href="http://2.zol.com.cn/" target="_blank">二手市场</a>
+                            							<a href="http://news.zol.com.cn/" target="_blank">新闻</a>
+                            							<a href="http://zdc.zol.com.cn/" target="_blank">调研</a>
+                            							<a href="http://price.zol.com.cn/" target="_blank">行情</a>
+                            							<a href="http://zj.zol.com.cn/" target="_blank">模拟攒机</a>
+                            							<a href="http://bbs.zol.com.cn/" target="_blank">论坛</a>
+                            							<a href="http://ask.zol.com.cn/" target="_blank">问答</a>
+                            							<a href="http://xiazai.zol.com.cn/" target="_blank">软件下载</a>
+                            						</li>
+						<li>
+							<a href="http://www.zol.com.cn/webcenter/map.html" class="more" target="_blank">更多<b>&gt;&gt;</b></a>
+							<span class="sitemap-sub-title">产品频道</span>
+                            							<a href="http://detail.zol.com.cn/koubei/" target="_blank">口碑榜</a>
+                            							<a href="http://detail.zol.com.cn/product_new/" target="_blank">每日新品</a>
+                            							<a href="http://detail.zol.com.cn/play/mobile/" target="_blank">玩转手机</a>
+                            							<a href="http://v.zol.com.cn/" target="_blank">视频频道</a>
+                            							<a href="http://detail.zol.com.cn/tujie/" target="_blank">评测图解</a>
+                            							<a href="http://repair.zol.com.cn/" target="_blank">维修库</a>
+                            							<a class="icon-new" href="http://detail.zol.com.cn/solution/" target="_blank">解决方案库<i></i></a>
+                            							<a href="http://try.zol.com.cn/" target="_blank">试用中心</a>
+                            							<a href="http://detail.zol.com.cn/dongtai/home" target="_blank">产品微动态</a>
+                            							<a href="http://z.zol.com.cn/" target="_blank">超惠买</a>
+                            						</li>
+					</ul>
+				</div>
+			</div>
+			<!--sitenav-personal-center-->
+			
+			<div class="product-librarylinks"> 
+				<a href="http://top.zol.com.cn" target="_blank">产品排行</a>
+				<a class="icon-hot" href="http://e.zol.com.cn/?s=banner" target="_blank">产品入库<i></i></a>
+				<a href="http://dealer.zol.com.cn/register_explain.php" target="_blank">广告联盟</a>
+				<a href="http://www.zol.com.cn/help/index.html" target="_blank">手机客户端</a>
+			</div> 
+			
+		</div>
+		<!--sitenav-links-->
+	</div>
+</div><div class="header clearfix">
+    <div class="logo">
+                    <a href="/">ZOL产品报价</a>
+            <b>·</b><strong>手机</strong>
+                </div>
+
+    
+    <div class="search-box">
+        <form id="searchForm" action="http://detail.zol.com.cn/index.php" method="get">
+            <input type="hidden" value="SearchList" name="c">
+            <div class="search-keyword">
+                <input id="keyword" name="kword" type="text" class="keyword" maxlength="120" autocomplete="off" x-webkit-speech="" x-webkit-grammar="builtin:translate" lang="zh-CN" hidefocus="true" value="vivo X20" data-source="">
+            </div>
+            <input id="subSerch" type="button" class="search-button" hidefocus="true" value="搜索">
+        </form>
+        <div id="suggest" class="search-suggest"></div>
+    </div>
+    
+        <div id="navigation" class="hide" style="display: block;"><ul class="public-category-nav" id="J_HeadCateNav">
+	<li class="home"><strong>分类：</strong></li>
+	    <li class="onav" data-rel="subCategory-list-1">
+		<span><a href="/notebook_index/subcate16_list_1.html">笔记本整机</a></span>
+				<div class="public-category-subnav" id="subCategory-list-1">
+			<div class="public-category-subnav-inner">
+								<dl>
+					<dt><a href="/price_cate_64.html">笔记本</a></dt>
+					<dd>
+												<a href="/notebook_index/subcate16_list_1.html">笔记本电脑</a>
+												<a href="/ultrabook/">超极本</a>
+												<a href="/notebook_bag/">笔记本包</a>
+												<a href="/notebook_battery/">笔记本电池</a>
+												<a href="/notebook_powersource/">笔记本电源适配器</a>
+												<a href="/dockingstation_cradle/">笔记本扩展坞/底座</a>
+												<a href="/notebook_beauty/">笔记本美容</a>
+												<a href="/notebook_film/">笔记本膜</a>
+												<a href="/notebook_desk/">笔记本电脑桌</a>
+												<a href="/notebook_accessories/">笔记本配件</a>
+												<a href="/notebook_clean/">电脑清洁</a>
+												<a href="/notebook_lock/">电脑锁</a>
+																	</dd>
+				</dl>
+								<dl>
+					<dt><a href="/price_cate_69.html">平板产品</a></dt>
+					<dd>
+												<a href="/tablepc/">平板电脑</a>
+												<a href="/tablepc_bag/">平板电脑包</a>
+												<a href="/tablepc_shell/">平板保护套/壳</a>
+												<a href="/tablepc_base_bracket/">平板底座/支架</a>
+												<a href="/tablepc_film/">平板贴膜</a>
+												<a href="/vehicle_equipment/">车载设备</a>
+												<a href="/cable/">连接线</a>
+												<a href="/other_accessories/">其它配件</a>
+																	</dd>
+				</dl>
+								<dl>
+					<dt><a href="/price_cate_2.html">台式整机</a></dt>
+					<dd>
+												<a href="/desktop_pc/">台式电脑</a>
+												<a href="/mini-desktop_pc/">迷你台式电脑</a>
+												<a href="/all-in-one_pc/">一体电脑</a>
+												<a href="/workstation/">工作站</a>
+												<a href="/mini_pc/">准系统</a>
+												<a href="/ipc/">工控设备</a>
+												<a href="/mini/">小型机</a>
+												<a href="/computer_terminals/">电脑终端机</a>
+												<a href="/thin_client/">瘦客户机</a>
+												<a href="/tools_pc/">电脑工具</a>
+																	</dd>
+				</dl>
+								<em class="public-category-close" title="关闭" id="J_CloseSubList_1"></em>
+			</div>
+			<div class="public-nav-shadow"></div>
+		</div>
+		    </li>
+        <li class="onav" data-rel="subCategory-list-2">
+		<span><a href="/cell_phone_index/subcate57_list_1.html">手机</a></span>
+				<div class="public-category-subnav" id="subCategory-list-2">
+			<div class="public-category-subnav-inner">
+								<dl>
+					<dt><a href="/price_cate_34.html">手机</a></dt>
+					<dd>
+												<a href="/cell_phone_index/subcate57_list_1.html">手机</a>
+												<a href="/phonebattery/">手机电池</a>
+												<a href="/cellcharger/">手机充电器</a>
+												<a href="/datacable/">手机数据线</a>
+												<a href="/mobile-base/">手机底座</a>
+												<a href="/mobile-laoding/">手机贴膜</a>
+												<a href="/mobile-demeo/">手机保护套</a>
+												<a href="/mobile-car-accessories/">手机车载配件</a>
+												<a href="/phone_annex/">手机其它附件</a>
+												<a href="/haoka/">号卡专区</a>
+																	</dd>
+				</dl>
+								<dl>
+					<dt><a href="/price_cate_65.html">通讯产品</a></dt>
+					<dd>
+												<a href="/groupphone/">集团电话</a>
+												<a href="/interphone/">对讲机</a>
+												<a href="/telephone/">电话机</a>
+												<a href="/dictaphone/">电话录音</a>
+												<a href="/phonepartner/">电话IT伴侣</a>
+												<a href="/netphone/">网络电话</a>
+												<a href="/phonemeeting/">会议电话</a>
+												<a href="/callcenter/">呼叫中心设备</a>
+												<a href="/beeper/">呼叫器</a>
+																	</dd>
+				</dl>
+								<em class="public-category-close" title="关闭" id="J_CloseSubList_2"></em>
+			</div>
+			<div class="public-nav-shadow"></div>
+		</div>
+		    </li>
+        <li class="onav" data-rel="subCategory-list-3">
+		<span><a href="/digital_camera_index/subcate15_list_1.html">相机</a></span>
+				<div class="public-category-subnav" id="subCategory-list-3">
+			<div class="public-category-subnav-inner">
+								<dl>
+					<dt><a href="/price_cate_35.html">相机摄像机</a></dt>
+					<dd>
+												<a href="/digital_camera_index/subcate15_list_1.html">数码相机</a>
+												<a href="/digital_camcorder/">数码摄像机</a>
+												<a href="/lens/">镜头</a>
+												<a href="/polaroid/">拍立得</a>
+												<a href="/flash_memory/">闪存卡</a>
+												<a href="/readcard/">读卡器</a>
+												<a href="/membrane/">相机贴膜</a>
+												<a href="/filter/">滤镜</a>
+												<a href="/tripod/">三脚架</a>
+												<a href="/lens_hood/">遮光罩</a>
+												<a href="/flash/">闪光灯</a>
+												<a href="/flash-accessories/">闪光灯配件</a>
+																		<a class="more" href="/price_cate_35.html">更多<b>&gt;&gt;</b></a>
+											</dd>
+				</dl>
+								<em class="public-category-close" title="关闭" id="J_CloseSubList_3"></em>
+			</div>
+			<div class="public-nav-shadow"></div>
+		</div>
+		    </li>
+        <li class="onav" data-rel="subCategory-list-11">
+		<span><a href="/mp3_player/">数码</a></span>
+				<div class="public-category-subnav" id="subCategory-list-11">
+			<div class="public-category-subnav-inner">
+								<dl>
+					<dt><a href="/price_cate_10.html">数码产品</a></dt>
+					<dd>
+												<a href="/mp3_player/"> MP3</a>
+												<a href="/mp4_player/"> MP4</a>
+												<a href="/pocketpower/">移动电源(充电宝)</a>
+												<a href="/microphone/">耳机</a>
+												<a href="/bluetoothspeaker/">蓝牙音响</a>
+												<a href="/portablespeaker/">户外便携音响</a>
+												<a href="/housespeaker/">家居床头音响</a>
+												<a href="/loudspeaker/">扩音器</a>
+												<a href="/usb_flash_drive/">U盘</a>
+												<a href="/move_disk/">移动硬盘</a>
+												<a href="/ebook/">电子书</a>
+												<a href="/digital_record_pen/">录音笔</a>
+																		<a class="more" href="/price_cate_10.html">更多<b>&gt;&gt;</b></a>
+											</dd>
+				</dl>
+								<em class="public-category-close" title="关闭" id="J_CloseSubList_11"></em>
+			</div>
+			<div class="public-nav-shadow"></div>
+		</div>
+		    </li>
+        <li class="onav" data-rel="subCategory-list-4">
+		<span><a href="/motherboard/">DIY硬件</a></span>
+				<div class="public-category-subnav" id="subCategory-list-4">
+			<div class="public-category-subnav-inner">
+								<dl>
+					<dt><a href="/price_cate_1.html">装机硬件</a></dt>
+					<dd>
+												<a href="/motherboard/">主板</a>
+												<a href="/vga/">显卡</a>
+												<a href="/cpu/"> CPU</a>
+												<a href="/memory/">内存</a>
+												<a href="/hard_drives/">硬盘</a>
+												<a href="/case/">机箱</a>
+												<a href="/power/">电源</a>
+												<a href="/cooling_product/">散热器</a>
+												<a href="/solid_state_drive/">固态硬盘</a>
+												<a href="/dvdrw/">光驱</a>
+												<a href="/sound_card/">声卡</a>
+												<a href="/diy_host/">DIY组装电脑</a>
+																	</dd>
+				</dl>
+								<dl>
+					<dt><a href="/price_cate_66.html">硬件外设</a></dt>
+					<dd>
+												<a href="/lcd/">液晶显示器</a>
+												<a href="/speaker/">音箱</a>
+												<a href="/keyboards_mouse/">键鼠套装</a>
+												<a href="/mice/">鼠标</a>
+												<a href="/keyboard/">键盘</a>
+												<a href="/mouse_dian/">鼠标垫</a>
+												<a href="/mouse_dianjiao/">键鼠配件</a>
+												<a href="/shouxiehuihua/">数位板</a>
+												<a href="/speaker_accessories/">音箱配件</a>
+																	</dd>
+				</dl>
+								<dl>
+					<dt><a href="/price_cate_67.html">扩展配件</a></dt>
+					<dd>
+												<a href="/bluetooth_adapter/">蓝牙适配器</a>
+												<a href="/infrared_adapter/">红外适配器</a>
+												<a href="/video_capture/">视频采集卡</a>
+												<a href="/video_card/">TV卡</a>
+												<a href="/storage_box/">硬盘/光驱盒</a>
+												<a href="/ljxzhjk/">连接线转接卡</a>
+												<a href="/duochuankouka/">多串口卡</a>
+												<a href="/cd_disk/">光盘片</a>
+												<a href="/mb_chip/">主板芯片组</a>
+												<a href="/vga_chip/">显示芯片</a>
+												<a href="/other_hardware/">其他装机配件</a>
+																	</dd>
+				</dl>
+								<em class="public-category-close" title="关闭" id="J_CloseSubList_4"></em>
+			</div>
+			<div class="public-nav-shadow"></div>
+		</div>
+		    </li>
+        <li class="onav" data-rel="subCategory-list-5">
+		<span><a href="/digital_tv/">家电</a></span>
+				<div class="public-category-subnav" id="subCategory-list-5">
+			<div class="public-category-subnav-inner">
+								<dl>
+					<dt><a href="/price_cate_42.html">大家电</a></dt>
+					<dd>
+												<a href="/digital_tv/">平板电视</a>
+												<a href="/pdp/">等离子电视</a>
+												<a href="/air-condition/">空调</a>
+												<a href="/washer/">洗衣机</a>
+												<a href="/dryer/">干衣机</a>
+												<a href="/icebox/">冰箱</a>
+												<a href="/ice_bin/">冷冻柜</a>
+												<a href="/gradevin/">酒柜</a>
+												<a href="/the_ice_bar/">冰吧</a>
+												<a href="/guajia_tv/">电视挂架</a>
+												<a href="/remoter_all-purpose/">遥控器</a>
+												<a href="/dizuo_tv/">电视底座</a>
+																		<a class="more" href="/price_cate_42.html">更多<b>&gt;&gt;</b></a>
+											</dd>
+				</dl>
+								<dl>
+					<dt><a href="/price_cate_73.html">影音家电</a></dt>
+					<dd>
+												<a href="/home-theater/">家庭影院</a>
+												<a href="/rmt-c/">点歌机</a>
+												<a href="/acoustics/">迷你音响</a>
+												<a href="/hd-player/">电视播放器</a>
+												<a href="/dvd_play/">DVD播放器</a>
+												<a href="/blu-ray/">蓝光播放器</a>
+												<a href="/video-accessory/">影音线材</a>
+												<a href="/av-acoustics/">AV音箱</a>
+												<a href="/wireless-hd/">无线高清</a>
+																	</dd>
+				</dl>
+								<dl>
+					<dt><a href="/price_cate_52.html">厨卫电器</a></dt>
+					<dd>
+												<a href="/kitchen_ventilator/">抽油烟机</a>
+												<a href="/gas_cooker/">燃气灶</a>
+												<a href="/electromagnetic_stove/">电磁灶</a>
+												<a href="/electrical_waterheater/">电热水器</a>
+												<a href="/gas_waterheater/">燃气热水器</a>
+												<a href="/solar_waterheater/">太阳能热水器</a>
+												<a href="/central_waterheater/">中央热水器</a>
+												<a href="/electrothermal_faucet/">电热水龙头</a>
+												<a href="/bath_warmer/">浴霸</a>
+												<a href="/ventilating_fan/">排气换气扇</a>
+												<a href="/dishwasher/">洗碗机</a>
+												<a href="/disinfection_cabinet/">消毒柜</a>
+																	</dd>
+				</dl>
+								<dl>
+					<dt><a href="/price_cate_74.html">厨房小家电</a></dt>
+					<dd>
+												<a href="/rice_cooker/">电饭煲</a>
+												<a href="/pressure_cooker/">电压力锅</a>
+												<a href="/electrical_chafingdish/">电火锅</a>
+												<a href="/electric_cooker/">电炖锅</a>
+												<a href="/airfryer/">空气炸锅</a>
+												<a href="/induction_cooker/">电磁炉</a>
+												<a href="/radiant_cooker/">电陶炉</a>
+												<a href="/microwave_oven/">微波炉</a>
+												<a href="/electrical_pan/">电饼铛</a>
+												<a href="/electric-oven/">烤箱</a>
+												<a href="/toaster/">多士炉</a>
+												<a href="/soybean-milk-extractor/">豆浆机</a>
+																		<a class="more" href="/price_cate_74.html">更多<b>&gt;&gt;</b></a>
+											</dd>
+				</dl>
+								<dl>
+					<dt><a href="/price_cate_61.html">生活家电</a></dt>
+					<dd>
+												<a href="/purifier/">空气净化器</a>
+												<a href="/central_purifier/">中央空气净化器</a>
+												<a href="/electric_heater/">电暖器</a>
+												<a href="/cleaner/">吸尘器</a>
+												<a href="/sweeping_robot/">扫地机器人</a>
+												<a href="/air-cooler/">空调扇</a>
+												<a href="/electric_fan/">电风扇</a>
+												<a href="/humidifier/">加湿器</a>
+												<a href="/exsiccator/">除湿机</a>
+												<a href="/mites_machine/">除螨机</a>
+												<a href="/electric-iron/">电熨斗</a>
+												<a href="/radio/">收音机</a>
+																		<a class="more" href="/price_cate_61.html">更多<b>&gt;&gt;</b></a>
+											</dd>
+				</dl>
+								<dl>
+					<dt><a href="/price_cate_53.html">个人护理</a></dt>
+					<dd>
+												<a href="/electric_hair_dryer/">电吹风</a>
+												<a href="/shaving_razor/">剃须刀</a>
+												<a href="/electrical_toothbrush/">电动牙刷</a>
+												<a href="/depilatory_device/">脱毛器</a>
+												<a href="/cosmetic_instrument/">美容仪</a>
+												<a href="/marcel_waver/">美发器</a>
+																	</dd>
+				</dl>
+								<dl>
+					<dt><a href="/price_cate_85.html">健康生活</a></dt>
+					<dd>
+												<a href="/feetwasher/">足浴盆</a>
+												<a href="/massage_equipment/">按摩器</a>
+												<a href="/electronic-weigher/">电子秤</a>
+												<a href="/pedometer/">计步器</a>
+												<a href="/e-cigarettes/">电子烟</a>
+												<a href="/sit-up-machine/">仰卧起坐机</a>
+												<a href="/treadmill/">跑步机</a>
+												<a href="/cycling-equipment/">健身车</a>
+												<a href="/health-chair/">健康桌椅</a>
+												<a href="/breathing-oxygen/">呼吸制氧</a>
+												<a href="/health-equipment/">养生器械</a>
+												<a href="/hearing_aid/">助听器</a>
+																		<a class="more" href="/price_cate_85.html">更多<b>&gt;&gt;</b></a>
+											</dd>
+				</dl>
+								<em class="public-category-close" title="关闭" id="J_CloseSubList_5"></em>
+			</div>
+			<div class="public-nav-shadow"></div>
+		</div>
+		    </li>
+        <li class="onav" data-rel="subCategory-list-6">
+		<span><a href="/printer/">办公投影</a></span>
+				<div class="public-category-subnav" id="subCategory-list-6">
+			<div class="public-category-subnav-inner">
+								<dl>
+					<dt><a href="/price_cate_3.html">办公打印</a></dt>
+					<dd>
+												<a href="/printer/">打印机</a>
+												<a href="/laser_printers/">激光打印机</a>
+												<a href="/inkjet_printers/">喷墨打印机</a>
+												<a href="/all-in-one_printer/">多功能一体机</a>
+												<a href="/large_format/">大幅面打印机</a>
+												<a href="/scanner/">扫描仪</a>
+												<a href="/gaopaiyi/">高拍仪</a>
+												<a href="/fax/">传真机</a>
+												<a href="/copier/">复印机</a>
+												<a href="/dye-sublimation_printer/">照片打印机</a>
+												<a href="/dot-matrix_printer/">针式打印机</a>
+												<a href="/label_printer/">标签打印机</a>
+																		<a class="more" href="/price_cate_3.html">更多<b>&gt;&gt;</b></a>
+											</dd>
+				</dl>
+								<dl>
+					<dt><a href="/price_cate_17.html">投影显示</a></dt>
+					<dd>
+												<a href="/projector/">投影机</a>
+												<a href="/laser_tv/">激光电视</a>
+												<a href="/projector_bulb/">投影灯泡</a>
+												<a href="/projector_stand/">投影展台</a>
+												<a href="/screens/">投影幕布</a>
+												<a href="/electron_board/">电子白板</a>
+												<a href="/projector-hanger/">投影机吊架</a>
+												<a href="/hanging_holder/">显示器支架</a>
+												<a href="/interactive_display/">数码讲台手写屏</a>
+												<a href="/lcd_companion_system/">液晶屏升降系统</a>
+												<a href="/glass_cinema/">3D眼镜</a>
+												<a href="/projector_accessories/">投影机配件</a>
+																	</dd>
+				</dl>
+								<dl>
+					<dt><a href="/price_cate_68.html">商用显示</a></dt>
+					<dd>
+												<a href="/dlp_videowall/">背投拼接</a>
+												<a href="/lcd_videowall/">液晶拼接</a>
+												<a href="/profession_lcd/">专业显示器</a>
+												<a href="/plasma/">等离子显示器</a>
+												<a href="/lcd_ad_equipment/">数字标牌</a>
+												<a href="/led/">LED显示屏</a>
+												<a href="/touch-control/">触控一体机</a>
+												<a href="/touch_screen/">触摸屏</a>
+												<a href="/multi_screen/">多屏显示设备</a>
+												<a href="/hotel_tv/">酒店电视</a>
+																	</dd>
+				</dl>
+								<em class="public-category-close" title="关闭" id="J_CloseSubList_6"></em>
+			</div>
+			<div class="public-nav-shadow"></div>
+		</div>
+		    </li>
+        <li class="onav" data-rel="subCategory-list-7">
+		<span><a href="/zsyxj/">游戏机</a></span>
+				<div class="public-category-subnav" id="subCategory-list-7">
+			<div class="public-category-subnav-inner">
+								<dl>
+					<dt><a href="/price_cate_58.html">游戏机</a></dt>
+					<dd>
+												<a href="/zsyxj/">掌上游戏机</a>
+												<a href="/game/">游戏机</a>
+												<a href="/gamepad/">手柄</a>
+												<a href="/wheel/">方向盘</a>
+												<a href="/yxjb/">游戏机包/盒</a>
+												<a href="/yxjt/">游戏机套</a>
+												<a href="/screen_protector/">游戏机贴膜</a>
+												<a href="/yxjdc/">游戏机电池</a>
+												<a href="/yxjcdq/">游戏机充电器</a>
+												<a href="/yspxc/">游戏机线材</a>
+												<a href="/joystick/">游戏摇杆</a>
+												<a href="/play_around/">游戏周边</a>
+																	</dd>
+				</dl>
+								<em class="public-category-close" title="关闭" id="J_CloseSubList_7"></em>
+			</div>
+			<div class="public-nav-shadow"></div>
+		</div>
+		    </li>
+        <li class="onav" data-rel="subCategory-list-8">
+		<span><a href="/office_oa/">软件</a></span>
+				<div class="public-category-subnav" id="subCategory-list-8">
+			<div class="public-category-subnav-inner">
+								<dl>
+					<dt><a href="/price_cate_48.html">软件类</a></dt>
+					<dd>
+												<a href="/office_oa/">OA办公自动化</a>
+												<a href="/sjrcyjq/">双机容错与集群</a>
+												<a href="/os/">操作系统</a>
+												<a href="/finance/"> 财务管理ERP</a>
+												<a href="/file_dispose/">办公软件</a>
+												<a href="/design/">图像软件</a>
+												<a href="/typesetting/">排版软件</a>
+												<a href="/auxiliary/">辅助设计</a>
+												<a href="/kill_virus/">杀毒软件</a>
+												<a href="/multimedia/">多媒体软件</a>
+												<a href="/data-base/">数据库软件</a>
+												<a href="/software_encryption/">软件加密</a>
+																		<a class="more" href="/price_cate_48.html">更多<b>&gt;&gt;</b></a>
+											</dd>
+				</dl>
+								<dl>
+					<dt><a href="/price_cate_116.html">云服务</a></dt>
+					<dd>
+												<a href="/enterprisewebsite/">官网订制</a>
+												<a href="/shopping_mall/">商城</a>
+												<a href="/appcustomdevelopment/">APP定制开发</a>
+												<a href="/database/">数据库</a>
+												<a href="/log_management/">日志管理</a>
+																	</dd>
+				</dl>
+								<em class="public-category-close" title="关闭" id="J_CloseSubList_8"></em>
+			</div>
+			<div class="public-nav-shadow"></div>
+		</div>
+		    </li>
+        <li class="onav" data-rel="subCategory-list-9">
+		<span><a href="/server/">网络</a></span>
+				<div class="public-category-subnav" id="subCategory-list-9">
+			<div class="public-category-subnav-inner">
+								<dl>
+					<dt><a href="/price_cate_51.html">服务器</a></dt>
+					<dd>
+												<a href="/server/">服务器</a>
+												<a href="/servercpu/"> 服务器CPU</a>
+												<a href="/servermemory/">服务器内存</a>
+												<a href="/serverhd/">服务器硬盘</a>
+												<a href="/servermotherboard/">服务器主板</a>
+												<a href="/server_baresystem/">服务器准系统</a>
+												<a href="/server_other/">服务器配件</a>
+												<a href="/server_box/">服务器机箱</a>
+												<a href="/server_power/">服务器电源</a>
+																	</dd>
+				</dl>
+								<dl>
+					<dt><a href="/price_cate_32.html">无线网络</a></dt>
+					<dd>
+												<a href="/wireless_modem/">无线上网卡</a>
+												<a href="/wireless_nic/">无线网卡</a>
+												<a href="/wireless_router/">无线路由器</a>
+												<a href="/wireless_adapter/">无线接入器</a>
+												<a href="/wireless_controller/">无线控制器</a>
+												<a href="/tiankui_system/">天馈系统</a>
+												<a href="/wireless_safesecrecy/">无线安全保密</a>
+																	</dd>
+				</dl>
+								<dl>
+					<dt><a href="/price_cate_5.html">网络设备</a></dt>
+					<dd>
+												<a href="/net_card/">网卡</a>
+												<a href="/switches/">交换机</a>
+												<a href="/router/">路由器</a>
+												<a href="/hyper-converged_infrastructure/">超融合</a>
+												<a href="/program-controlled_switches/">程控交换机</a>
+												<a href="/xdsl/">xDSL设备</a>
+												<a href="/adsl/"> ADSL</a>
+												<a href="/modem/"> Modem</a>
+												<a href="/repeaters/">中继器</a>
+												<a href="/moduleinterface_card/">模块接口卡</a>
+												<a href="/tester/">测试仪</a>
+												<a href="/traffic_management/">流量管理</a>
+																		<a class="more" href="/price_cate_5.html">更多<b>&gt;&gt;</b></a>
+											</dd>
+				</dl>
+								<dl>
+					<dt><a href="/price_cate_60.html">网络安全</a></dt>
+					<dd>
+												<a href="/firewall/">防火墙</a>
+												<a href="/utm/"> UTM</a>
+												<a href="/intrusion_detection/">入侵检测</a>
+												<a href="/vpn_sslvpn/"> VPN及SSL VPN</a>
+												<a href="/antivirus_spamfilters/">防毒及邮件过滤</a>
+												<a href="/physicalsecurity_isolation/">物理安全隔离</a>
+												<a href="/application_monitoring/">应用监管</a>
+																	</dd>
+				</dl>
+								<dl>
+					<dt><a href="/price_cate_59.html">网络存储</a></dt>
+					<dd>
+												<a href="/raid_crad/">RAID卡</a>
+												<a href="/scsi_crad/">SCSI卡</a>
+												<a href="/scsiandsas_fittings/">SCSI及SAS配件</a>
+												<a href="/tape_driver/">磁带机</a>
+												<a href="/tape_cabinets/">磁带库</a>
+												<a href="/raid/">磁盘阵列</a>
+												<a href="/nas_networkstorage/">NAS网络存储</a>
+												<a href="/san_networkstorage/">SAN网络存储</a>
+												<a href="/ip_networkstorage/">IP网络存储</a>
+												<a href="/harddiskextraction_box/">硬盘抽取盒</a>
+												<a href="/kvm_switcher/">KVM切换器</a>
+												<a href="/net_extender/">网络延长器</a>
+																		<a class="more" href="/price_cate_59.html">更多<b>&gt;&gt;</b></a>
+											</dd>
+				</dl>
+								<dl>
+					<dt><a href="/price_cate_56.html">机房布线</a></dt>
+					<dd>
+												<a href="/integrated_cabling/">综合布线</a>
+												<a href="/cableandtwisted-pair/">电缆与双绞线</a>
+												<a href="/opticalfiber_equipment/">光纤设备</a>
+												<a href="/opticalfiber_cable/">光纤线缆</a>
+												<a href="/lightningprotection_product/">防雷产品</a>
+												<a href="/pdu_powerdistributor/">PDU电源分配器</a>
+												<a href="/precision_air-condition/">精密空调</a>
+												<a href="/anti-static_floor/">防静电地板</a>
+																	</dd>
+				</dl>
+								<em class="public-category-close" title="关闭" id="J_CloseSubList_9"></em>
+			</div>
+			<div class="public-nav-shadow"></div>
+		</div>
+		    </li>
+        <li class="onav" data-rel="subCategory-list-10">
+		<span><a href="/camera_equipment/">安防</a></span>
+				<div class="public-category-subnav" id="subCategory-list-10">
+			<div class="public-category-subnav-inner">
+								<dl>
+					<dt><a href="/price_cate_63.html">视频监控</a></dt>
+					<dd>
+												<a href="/camera_equipment/">监控摄像机</a>
+												<a href="/image_record/">硬盘录像机</a>
+												<a href="/video_server/">视频服务器</a>
+												<a href="/monitoring_card/">监控采集卡</a>
+												<a href="/transmission_equipmenterandreceiver/">光端机</a>
+												<a href="/display_control/">监视器</a>
+												<a href="/screen_splitter/">画面分割器</a>
+												<a href="/video_distributor/">视频分配器</a>
+												<a href="/codec/">编解码器</a>
+												<a href="/centralcontrol_system/">中央控制系统</a>
+												<a href="/tvwall_console/">电视墙与操作台</a>
+												<a href="/jiankongyingpan/">监控硬盘</a>
+																		<a class="more" href="/price_cate_63.html">更多<b>&gt;&gt;</b></a>
+											</dd>
+				</dl>
+								<dl>
+					<dt><a href="/price_cate_70.html">考勤门禁系统</a></dt>
+					<dd>
+												<a href="/kaoqinmenjinshoufei/">考勤机</a>
+												<a href="/access_onemachine/">门禁一体机</a>
+												<a href="/charging_machine/">消费机</a>
+												<a href="/access_controller/">门禁控制器</a>
+												<a href="/accesscontrol_system/">门禁系统</a>
+												<a href="/building_intercom/">楼宇对讲</a>
+												<a href="/patrol_system/">巡更机</a>
+																	</dd>
+				</dl>
+								<dl>
+					<dt><a href="/price_cate_21.html">防盗报警</a></dt>
+					<dd>
+												<a href="/bugging/">防盗报警主机</a>
+												<a href="/induction_detector/">感应探测器</a>
+												<a href="/image_alarm/">图像报警器</a>
+												<a href="/electronic_fence/"> 电子围栏 </a>
+												<a href="/burglaralarm_surrounding/">防盗报警周边</a>
+																	</dd>
+				</dl>
+								<dl>
+					<dt><a href="/price_cate_114.html">智能交通</a></dt>
+					<dd>
+												<a href="/guiding_screen/">诱导屏</a>
+												<a href="/touchprobe/">信息采集器</a>
+												<a href="/peripheral_equipment/">智能交通周边设备</a>
+																	</dd>
+				</dl>
+								<dl>
+					<dt><a href="/price_cate_57.html">语音视频</a></dt>
+					<dd>
+												<a href="/videomeeting/">视频会议</a>
+												<a href="/multimedia_video/">多媒体视频</a>
+												<a href="/audioandconference_system/">音频及会议系统</a>
+																	</dd>
+				</dl>
+								<em class="public-category-close" title="关闭" id="J_CloseSubList_10"></em>
+			</div>
+			<div class="public-nav-shadow"></div>
+		</div>
+		    </li>
+        <li class="onav" data-rel="subCategory-list-13">
+		<span><a href="/gps/">汽车用品</a></span>
+				<div class="public-category-subnav" id="subCategory-list-13">
+			<div class="public-category-subnav-inner">
+								<dl>
+					<dt><a href="/price_cate_75.html">汽车电子</a></dt>
+					<dd>
+												<a href="/gps/">导航仪</a>
+												<a href="/radarwarning/">雷达预警仪</a>
+												<a href="/carrecorder/">行车记录仪</a>
+												<a href="/drivingmachine/">行车一体机</a>
+												<a href="/parkingdistancecontrol/">倒车雷达</a>
+												<a href="/gpsdvd/">DVD导航</a>
+												<a href="/carcomputer/">行车电脑</a>
+												<a href="/carairpurifier/">车载空气净化器</a>
+												<a href="/refrigeratorcar/">车载冰箱</a>
+												<a href="/vehiclepower/">车载电源</a>
+												<a href="/vehiclecleaner/">车载吸尘器</a>
+												<a href="/carmp3/">车载影音</a>
+																		<a class="more" href="/price_cate_75.html">更多<b>&gt;&gt;</b></a>
+											</dd>
+				</dl>
+								<dl>
+					<dt><a href="/price_cate_104.html">安全自驾</a></dt>
+					<dd>
+												<a href="/caralarm/">车载防盗设备</a>
+												<a href="/tiremonitoring/">胎压监测</a>
+												<a href="/safetyseat/">安全座椅</a>
+												<a href="/inflator-pump/">充气泵</a>
+												<a href="/emergency_rescue/">应急救援</a>
+												<a href="/storagebox/">储物箱</a>
+												<a href="/heatinsulation_box/">保温箱</a>
+												<a href="/roof_tent/">车顶帐篷</a>
+																	</dd>
+				</dl>
+								<dl>
+					<dt><a href="/price_cate_78.html">美容养护</a></dt>
+					<dd>
+												<a href="/car_wax/">车蜡</a>
+												<a href="/paint_pen/">补漆笔</a>
+												<a href="/cleaning_agent/">清洁剂</a>
+												<a href="/bathofglass/">玻璃水</a>
+												<a href="/plating_film/">镀晶镀膜</a>
+												<a href="/waxing_machine/">打蜡机</a>
+												<a href="/carwashing_machine/">洗车机</a>
+												<a href="/squirt_gun/">洗车水枪</a>
+												<a href="/towel_duster/">毛巾/掸子</a>
+												<a href="/chamois_towel/">麂皮巾</a>
+												<a href="/tire_brush/">轮胎刷</a>
+												<a href="/carwash_sponge/">洗车海绵</a>
+																		<a class="more" href="/price_cate_78.html">更多<b>&gt;&gt;</b></a>
+											</dd>
+				</dl>
+								<dl>
+					<dt><a href="/price_cate_110.html">汽车外饰</a></dt>
+					<dd>
+												<a href="/car_cover/">车衣</a>
+												<a href="/film/">贴膜</a>
+												<a href="/roof_rack/">行李架</a>
+												<a href="/roof_box/">车顶箱</a>
+												<a href="/licence_frame/">车牌架</a>
+												<a href="/decorative_strip/">装饰条</a>
+												<a href="/decorative_lamp/">装饰灯</a>
+												<a href="/pedal/">脚踏板</a>
+																	</dd>
+				</dl>
+								<dl>
+					<dt><a href="/price_cate_109.html">汽车内饰</a></dt>
+					<dd>
+												<a href="/cushion/">座垫</a>
+												<a href="/door_mat/">脚垫</a>
+												<a href="/headandwaist/">头枕腰靠</a>
+												<a href="/steeringwheel_cover/">方向盘套</a>
+												<a href="/armrest_box/">扶手箱</a>
+												<a href="/car_perfume/">汽车香水</a>
+												<a href="/air_purification/">空气净化</a>
+												<a href="/phonesupport/">车载支架</a>
+												<a href="/decorative_pieces/">装饰件</a>
+												<a href="/trunk_mat/">后备箱垫</a>
+																	</dd>
+				</dl>
+								<dl>
+					<dt><a href="/price_cate_111.html">汽车改装</a></dt>
+					<dd>
+												<a href="/tail/">尾翼</a>
+																	</dd>
+				</dl>
+								<dl>
+					<dt><a href="/price_cate_76.html">维修保养</a></dt>
+					<dd>
+												<a href="/additive/">添加剂</a>
+												<a href="/antifreeze/">防冻液</a>
+												<a href="/timing_belt/">正时皮带</a>
+												<a href="/wiper/">雨刷</a>
+												<a href="/ledcar/">汽车照明</a>
+												<a href="/car_glass/">汽车玻璃</a>
+												<a href="/tyre/">轮胎</a>
+												<a href="/automobile_hub/">轮毂</a>
+												<a href="/brake_pad/">刹车片/盘</a>
+												<a href="/chassis_armor/">底盘装甲</a>
+												<a href="/car_battery/">蓄电池</a>
+																	</dd>
+				</dl>
+								<em class="public-category-close" title="关闭" id="J_CloseSubList_13"></em>
+			</div>
+			<div class="public-nav-shadow"></div>
+		</div>
+		    </li>
+        <li class="onav" data-rel="subCategory-list-14">
+		<span><a href="/gpswatch/">智能生活</a></span>
+				<div class="public-category-subnav" id="subCategory-list-14">
+			<div class="public-category-subnav-inner">
+								<dl>
+					<dt><a href="/price_cate_84.html">智能穿戴</a></dt>
+					<dd>
+												<a href="/gpswatch/">智能手表</a>
+												<a href="/intelligentbracelet/">智能手环</a>
+												<a href="/smart_glasses/">智能眼镜</a>
+												<a href="/intelligentheadhoop/">智能头箍</a>
+												<a href="/intelligentclothing/">智能服饰</a>
+												<a href="/smart_tracker/">智能跟踪器</a>
+												<a href="/head-mounted-display-device/">VR眼镜</a>
+												<a href="/intelligent-necklace/">智能项链</a>
+												<a href="/intelligent-ring/">智能戒指</a>
+												<a href="/smart-glove/">智能手套</a>
+												<a href="/smartwallet/">智能钱包</a>
+												<a href="/intelligence-scale/">智能秤</a>
+																		<a class="more" href="/price_cate_84.html">更多<b>&gt;&gt;</b></a>
+											</dd>
+				</dl>
+								<dl>
+					<dt><a href="/price_cate_79.html">智能家居</a></dt>
+					<dd>
+												<a href="/intelligentsocket/">智能插座</a>
+												<a href="/intelligent-sensor/">智能传感器</a>
+												<a href="/intelligent_robot/">智能机器人</a>
+												<a href="/intelligentvoiceassistant/">智能语音助手</a>
+												<a href="/intelligentledlamp/">智能灯光</a>
+												<a href="/smart-camera/">智能摄像机</a>
+												<a href="/doorbell/">智能门控</a>
+												<a href="/electronic_eye/">智能电子猫眼</a>
+												<a href="/curtain/">智能窗帘</a>
+												<a href="/the-creative-intelligence/">智能创意</a>
+												<a href="/furnishingcontroller/">智能套装组合</a>
+																	</dd>
+				</dl>
+								<em class="public-category-close" title="关闭" id="J_CloseSubList_14"></em>
+			</div>
+			<div class="public-nav-shadow"></div>
+		</div>
+		    </li>
+      	<li class="all"><span><a href="http://detail.zol.com.cn/subcategory.html">更多<b>&gt;&gt;</b></a></span></li>
+</ul></div>
+    </div>
+
+<div class="wrapper">
+    			                    <div class="adSpace" id="detail_top_tonglan" style="display: none;"><script>if(!navigator.userAgent.match(/iPad/i)){write_group_ad('detail_top_tonglan','4diqu_tonglan_ad_57_m_50840_loc_{LOCATIONID}.inc#4province_tonglan_ad_57_m_50840_loc_{PROVINCEID}.inc#1tonglan_ad_57_m_50840.inc',0,57,50840);}</script><script>if(!navigator.userAgent.match(/iPad/i)){ad_w();}</script><script>if(!navigator.userAgent.match(/iPad/i)){ad_w();}</script><script>if(!navigator.userAgent.match(/iPad/i)){ad_w();}</script></div>            <div class="adSpace" id="detail_tonglan_bottom" style="display: none;"><script>write_group_ad('detail_tonglan_bottom','1diqu_tonglan_bottom_sub_57_manu_50840_loc_{LOCATIONID}.inc#1diqu_tonglan_bottom_sub_57_loc_{LOCATIONID}.inc',0,57,50840);</script><script>ad_w();</script><script>ad_w();</script></div>        	    
+	<!-- baidu-tc begin {"type":"CONTENT","action":"SHOW"}-->
+        <!-- 面包屑start -->
+	<div class="breadcrumb">
+		<a href="http://detail.zol.com.cn/">ZOL报价首页</a> &gt;
+		<a href="/cell_phone_index/subcate57_list_1.html" target="_self">手机</a> &gt;
+		<a href="/cell_phone_index/subcate57_50840_list_1.html" target="_self">荣耀手机</a> &gt;
+				<a href="/cell_phone/index1167243.shtml" target="_self">荣耀9（4GB RAM/全网通）</a> &gt;
+		<span>参数</span>
+			</div>
+        <!-- 面包屑end -->
+	<!-- baidu-tc end -->
+	<div class="feedback">
+				<span class="ad-recommend">
+                    <div class="adSpace" id="detail_index_position_bottom" style="display: none;"><script>write_group_ad('detail_index_position_bottom','4diqu_detail_index_product_name_top_sub_57_manu_50840_loc_{LOCATIONID}.inc#1tmp_detail_index_product_name_top_sub_57_manu_50840.inc#1tmp_detail_index_product_name_top_sub_57_manu_0.inc',0,57,50840);</script><script>ad_w();</script><script>ad_w();</script><script>ad_w();</script></div>                        		</span>
+			</div>
+    
+        	
+	    
+            	<div class="adSpace" id="vip_detail_tonglang" style="display: none;"><script>write_group_ad('vip_detail_tonglang','3vip_pro_detail_tonglang_1167243.inc',0,57,50840);</script><script>ad_w();</script></div>    	
+        
+        
+        <h1 class="page-title" id="page-title">荣耀9（4GB RAM/全网通）参数</h1>
+	    
+    	
+    
+		<div id="tagNav" class="navbox clearfix">
+		<!-- baidu-tc begin {"type":"CONTENT","action":"SHOW"}-->
+		<ul class="nav">
+					<li class="first"><a href="/cell_phone/index1167243.shtml" target="_self">综述介绍</a></li>
+
+					<li><a href="/1168/1167243/price.shtml" target="_self">报价</a></li>
+
+					<li><a href="http://redirect.simba.taobao.com/rd?c=un&amp;w=unionsem&amp;k=7bcedf94d74dc88d&amp;p=mm_26632772_24658887_83048278&amp;b=GAcxbdLC2I7zoOvKvcW&amp;s=&amp;f=https%3A%2F%2Fs.click.taobao.com%2FtsHfDZw" rel="nofollow" target="_blank" class="ol-tmall"><i class="ol-tmall-ico"></i>天猫超值</a></li>
+
+					<li><a href="/1168/1167243/pic.shtml" target="_self">图片<em>(720)</em></a></li>
+
+					<li class="active"><span>参数</span></li>
+					<li><a href="/1168/1167243/review.shtml" target="_self" class="ol-comment"><i class="ol-comment-ico"></i>点评<em>(269)</em></a></li>
+
+					<li><a href="/1168/1167243/article.shtml" target="_self">评测行情</a></li>
+
+					<li><a href="http://bbs.zol.com.cn/sjbbs/x1167243.html" target="_blank">论坛</a></li>
+
+					<li><a href="http://ask.zol.com.cn/product_1167243.html" target="_blank">问答</a></li>
+
+		
+		<li><a href="/1168/1167243/video.shtml" target="_self">视频</a></li>
+		            
+        			 
+			<li class="zplus-mall">
+				<a href="http://www.zol.com/list/pro1167243.html?spm=735.0" target="_blank" class="zplus-mall-true">ZOL商城</a>
+				<span class="zplus-nav-icon-tips"><em></em></span>
+			</li>
+					
+        
+		</ul>
+		<!-- baidu-tc end -->
+		
+				<div id="moreNav" class="more-nav">
+			<span>更多<i class="icon-darr"></i></span>
+			<div id="navList" class="more-nav-list">
+							<a href="/1168/1167243/sample.shtml" target="_self">样张</a>
+							<a href="/1168/1167243/sale.shtml" target="_self">促销</a>
+							<a href="/1168/1167243/fitting.shtml" target="_self">配件</a>
+							<a href="/1168/1167243/download.shtml" target="_self">下载</a>
+						</div>
+		</div>
+			</div>
+	</div>	
+<div class="adSpace" id="detail_on_nav_list_tonglan_btm" style="display: none;"><script>write_group_ad('detail_on_nav_list_tonglan_btm','tonglan_nav_btm_no_mobile_nb.inc',0,57,50840);</script><script>ad_w();</script></div>
+<div class="wrapper clearfix">
+	<div class="content">
+				
+						<div class="version-box clearfix">
+				<div class="version-series">
+					<span>荣耀9（4GB RAM/全网通）<i class="trangle"></i></span>
+										<ul>
+												<li><a href="/1174/1173233/param.shtml">荣耀 9（6GB RAM/全网通）</a></li>
+												<li><a href="/1180/1179950/param.shtml">荣耀 9（6GB RAM/移动版/全网通）</a></li>
+											</ul>
+									</div>
+								<ul class="versions">
+										<li><a href="/1168/1167243/param_16806.shtml">4GB RAM(行货，64GB)</a></li>
+										<li><a href="/1168/1167243/param_16863.shtml">4GB RAM(厂商指导价，64GB)</a></li>
+									</ul>
+							</div>
+					
+						<div class="main-param">
+				<p class="notice">声明：仅供参考，以当地实际销售信息为准</p>
+				<dl class="param-box">
+					<dt class="current" data-rel="mParam">重要参数</dt>
+					<dd id="mParam" class="clearfix" style="display:block">
+											<ul class="product-param-item pi-57 clearfix">
+							<li>
+								<div class="param-icon">
+									<span class="picon1"></span>
+								</div>
+								                                <p title="5.15英寸"><span>主屏尺寸：</span>5.15英寸</p>
+								                                <p title="1920x1080像素"><span>主屏分辨率：</span><a href="/cell_phone_index/subcate57_list_s4328_1.html">1920x1080像素</a></p>
+								</li><li><div class="param-icon"><span class="picon2"></span></div>                                <p title="1200万像素+2000万像素"><span>后置摄像头：</span>1200万像素+2000万像素</p>
+								                                <p title="800万像素"><span>前置摄像头：</span><a href="/cell_phone_index/subcate57_list_s5747_1.html">800万像素</a></p>
+								</li><li><div class="param-icon"><span class="picon3"></span></div>                                <p title="3200mAh"><span>电池容量：</span>3200mAh</p>
+								                                <p title="不可拆卸式电池"><span>电池类型：</span><a href="/cell_phone_index/subcate57_list_s5370_1.html">不可拆卸式电池</a></p>
+								</li><li><div class="param-icon"><span class="picon4"></span></div>                                <p title="八核"><span>核心数：</span><a href="/cell_phone_index/subcate57_list_s5226_1.html">八核</a></p>
+								                                <p title="4GB"><span>内存：</span><a href="/cell_phone_index/subcate57_list_s6134_1.html">4GB</a></p>
+															</li>
+						</ul> 
+										</dd>
+
+										<dt data-rel="pack">标准配件</dt>
+					<dd id="pack" class="clearfix">
+						<ul class="main-param-list">
+													<li title="">手机 x1</li>
+													<li title="">
+充电器 x1 </li>
+													<li title="">
+USB线 x1</li>
+													<li title="">
+快速指南 x1</li>
+													<li title="">
+三包凭证 x1</li>
+													</ul><ul class="main-param-list">
+													<li title="">
+取卡针 x1</li>
+												</ul>
+					</dd>
+					
+										<dt data-rel="warty">售后服务</dt>
+					<dd id="warty">
+						<ul class="afterservice">
+														<li>
+								<strong>保修政策：</strong>
+								<p>
+									<span class="c0">
+									全国联保，享受三包服务；质保期为1年</span>
+									<span class="c1">（主机1年，电池6个月，充电器1年）</span>								</p>
+							</li>
+														<li>
+								<strong>客服电话：</strong>
+								<p>
+									<span class="tel"><b>400-830-8300；400-690-2116；800-830-8300</b></span>
+																		<span class="tel-desc">（周一至周日：8:00-20:00）</span>
+																</p>
+							</li>
+														<li class="afterservice-con">
+								<strong>具体内容：</strong>
+								<p>自购机日起（以购机发票为准），如因质量问题或故障，凭厂商维修中心或特约维修点的质量检测证明，享受7日内退货，15日内换货，15日以上在质保期内享受免费保修等三包服务！注：单独购买手机配件产品的用户，请完好保存配件外包装以及发票原件，如无法提供上述凭证的，将无法进行正常的配件保修或更换。<a href="http://www.honor.cn/support/warranty-policy/" target="_blank">进入官网&gt;&gt;</a></p>
+							</li>
+													</ul>
+					</dd>
+									</dl>
+			</div>
+			
+            
+            <div class="adSpace" id="detail_param_talbe_top" style=""><script>write_group_ad('detail_param_talbe_top','1param_talbe_top.inc',0,57,50840);</script><!--AD10AD-->
+<script src="//js.idgdmg.com.cn/s/z021ab0020171020"></script><script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js"></script><ins id="aswift_0_expand" style="display:inline-table;border:none;height:90px;margin:0;padding:0;position:relative;visibility:visible;width:400px;background-color:transparent;"><ins id="aswift_0_anchor" style="display:block;border:none;height:90px;margin:0;padding:0;position:relative;visibility:visible;width:400px;background-color:transparent;"><iframe width="400" height="90" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" onload="var i=this.id,s=window.google_iframe_oncopy,H=s&amp;&amp;s.handlers,h=H&amp;&amp;H[i],w=this.contentWindow,d;try{d=w.document}catch(e){}if(h&amp;&amp;d&amp;&amp;(!d.body||!d.body.firstChild)){if(h.call){setTimeout(h,0)}else if(h.match){try{h=s.upd(h,i)}catch(e){}w.location.replace(h)}}" id="aswift_0" name="aswift_0" style="left:0;position:absolute;top:0;width:400px;height:90px;"></iframe></ins></ins>
+<script>ad_w();</script></div>
+			<div id="paramTable" class="section-param">
+				<div class="section-param-header">
+                    <h3>荣耀9（4GB RAM/全网通）详细参数</h3>
+				</div>
+												<table class="param-icon-table">
+					<tbody><tr>
+						<td>
+							<ul id="funcIcon" class="func clearfix">
+																	<li data-rel="func1">
+										<img src="http://icon.zol.com.cn/param20140526/57/28.png" width="48" heith="48" alt="主屏分辨率">
+										<p>主屏分辨率</p>
+																				<div id="func1" class="func-tips">
+											<b>主屏分辨率</b>
+											屏幕分辨率为1920x1080.										</div>
+																			</li>
+																	<li data-rel="func2">
+										<img src="http://icon.zol.com.cn/param20140526/57/53.png" width="48" heith="48" alt="全网通">
+										<p>全网通</p>
+																				<div id="func2" class="func-tips">
+											<b>全网通</b>
+											支持移动、联通、电信三家运营商网络										</div>
+																			</li>
+																	<li data-rel="func3">
+										<img src="http://icon.zol.com.cn/param20140526/57/35.png" width="48" heith="48" alt="指纹识别">
+										<p>指纹识别</p>
+																				<div id="func3" class="func-tips">
+											<b>指纹识别</b>
+											因iPhone 5S发布而兴起的一项技术，通过指纹可实现解锁，开启应用等。										</div>
+																			</li>
+																	<li data-rel="func4">
+										<img src="http://icon.zol.com.cn/param20140526/57/25.png" width="48" heith="48" alt="双频WIFI">
+										<p>双频WIFI</p>
+																				<div id="func4" class="func-tips">
+											<b>双频WIFI</b>
+											第五代WiFi传输技术，并且运行在5GHz无线电波频段。真正的5G WiFi是采用802.11ac，工作在频率5GHz的芯片，能同时覆盖5GHz和2.4GHz两大频段，无线信号范围更广、传输速度更快，但难穿过障碍物。										</div>
+																			</li>
+																	<li data-rel="func5">
+										<img src="http://icon.zol.com.cn/param20140526/57/37.png" width="48" heith="48" alt="陀螺仪">
+										<p>陀螺仪</p>
+																				<div id="func5" class="func-tips">
+											<b>陀螺仪</b>
+											三轴陀螺仪最大的作用就是测量角速度，以判别物体的运动状态，所以也称为运动传感器。广泛用于动作感应类游戏，也可辅助GPS定位。										</div>
+																			</li>
+																	<li data-rel="func6">
+										<img src="http://icon.zol.com.cn/param20140526/57/48.png" width="48" heith="48" alt="NFC">
+										<p>NFC</p>
+																				<div id="func6" class="func-tips">
+											<b>NFC</b>
+											近距离无线通信技术，一般手机背部内置NFC模块，通过与另一款支持NFC功能的手机背靠背来传输数据。										</div>
+																			</li>
+																	<li data-rel="func7">
+										<img src="http://icon.zol.com.cn/param20140526/57/49.png" width="48" heith="48" alt="OTG">
+										<p>OTG</p>
+																				<div id="func7" class="func-tips">
+											<b>OTG</b>
+											通过OTG连接线，使手机可以外接鼠标键盘等外设，或者直接读取U盘、移动硬盘中的内容，过程中无需电脑辅助，也无需安装任何驱动。										</div>
+																			</li>
+																	<li data-rel="func8">
+										<img src="http://icon.zol.com.cn/param20140526/57/50.png" width="48" heith="48" alt="红外遥控">
+										<p>红外遥控</p>
+																				<div id="func8" class="func-tips">
+											<b>红外遥控</b>
+											手机内置红外收发器，通过与家电型号匹配后，可替代家电的遥控器使用。										</div>
+																			</li>
+																	<li data-rel="func9">
+										<img src="http://icon.zol.com.cn/param20140526/57/17.png" width="48" heith="48" alt="海思处理器">
+										<p>海思处理器</p>
+																			</li>
+																	<li data-rel="func10">
+										<img src="http://icon.zol.com.cn/param20140526/57/18.png" width="48" heith="48" alt="GPS导航">
+										<p>GPS导航</p>
+																				<div id="func10" class="func-tips">
+											<b>GPS导航</b>
+											美国全球卫星定位系统。主要目的是为陆海空三大领域提供实时、全天候和全球性的导航服务。										</div>
+																			</li>
+																	<li data-rel="func11">
+										<img src="http://icon.zol.com.cn/param20140526/57/20.png" width="48" heith="48" alt="GLONASS导航">
+										<p>GLONASS导航</p>
+																				<div id="func11" class="func-tips">
+											<b>GLONASS导航</b>
+											俄罗斯全球卫星导航系统（GLONASS），主要服务内容包括确定陆地、海上及空中目标的坐标及运动速度信息，2011年初正式全球运营。										</div>
+																			</li>
+																	<li data-rel="func12">
+										<img src="http://icon.zol.com.cn/param20140526/57/21.png" width="48" heith="48" alt="北斗导航">
+										<p>北斗导航</p>
+																				<div id="func12" class="func-tips">
+											<b>北斗导航</b>
+											中国北斗卫星导航系统（BDS），是我国自行研制的全球卫星定位与通信系统，2012年底正式对亚太地区提供无源定位、导航、授时服务。										</div>
+																			</li>
+															</ul>
+						</td>
+					 </tr>
+				 </tbody></table>
+				 				 
+				                <div id="newTb" class="param-table">
+                                                <div id="paramSideNav" class="param-nav">
+                                <div class="param-nav-top"></div>
+                                <div class="param-nav-bottom"></div>
+                                <div class="param-nav-line"></div>
+                                <div class="param-nav-box">
+                                    <div id="paramNavScroll" class="param-nav-box-inner">
+                                        <ul id="paramNavList">
+                                                                                            <li class="active"><span><a href="#s-0" target="_self">基本参数</a></span></li>
+                                                                                                <li><span><a href="#s-1" target="_self">屏幕</a></span></li>
+                                                                                                <li><span><a href="#s-2" target="_self">网络</a></span></li>
+                                                                                                <li><span><a href="#s-3" target="_self">硬件</a></span></li>
+                                                                                                <li><span><a href="#s-4" target="_self">摄像头</a></span></li>
+                                                                                                <li><span><a href="#s-5" target="_self">外观</a></span></li>
+                                                                                                <li><span><a href="#s-6" target="_self">服务与支持</a></span></li>
+                                                                                                <li><span><a href="#s-7" target="_self">手机附件</a></span></li>
+                                                                                                <li><span><a href="#s-8" target="_self">保修信息</a></span></li>
+                                                                                        </ul>
+                                    </div>
+                                </div>
+                                                            </div>
+                        
+                                                    <a name="s-0"></a>
+                            <table>
+                                <tbody><tr>
+                                    <th>基本参数</th>
+                                    <td>
+                                        <div class="param-content">
+                                                                                            <ul class="category-param-list">
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_1" class="param-name">上市日期</span>
+                                                                <span id="newPmVal_1">2017年06月16日</span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_1,newPmVal_1,2093">纠错</em>
+                                                        </li>
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_2" class="param-name">手机类型</span>
+                                                                <span id="newPmVal_2"><a href="/cell_phone_index/subcate57_list_s528_1.html">4G手机</a>，<a href="/cell_phone_index/subcate57_list_p6202_1.html">3G手机</a>，<a href="/cell_phone_index/subcate57_list_s533_1.html">智能手机</a>，<a href="/cell_phone_index/subcate57_list_s531_1.html">音乐手机</a>，<a href="/cell_phone_index/subcate57_list_s2605_1.html">平板手机</a>，<a href="/cell_phone_index/subcate57_list_p6078_1.html">拍照手机</a>，<a href="/cell_phone_index/subcate57_list_s6523_1.html">快充手机</a></span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_2,newPmVal_2,5091">纠错</em>
+                                                        </li>
+                                                                                                    </ul>
+                                            
+
+                                                                                    </div>
+                                    </td>
+                                </tr>
+                            </tbody></table>
+                                                        <a name="s-1"></a>
+                            <table>
+                                <tbody><tr>
+                                    <th>屏幕</th>
+                                    <td>
+                                        <div class="param-content">
+                                                                                            <ul class="category-param-list">
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_3" class="param-name">触摸屏类型</span>
+                                                                <span id="newPmVal_3">电容屏，多点触控</span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_3,newPmVal_3,9692">纠错</em>
+                                                        </li>
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_4" class="param-name">主屏尺寸</span>
+                                                                <span id="newPmVal_4">5.15英寸</span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_4,newPmVal_4,9694">纠错</em>
+                                                        </li>
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_5" class="param-name param-explain" data-url="/product_param/index1786.html" data-text="手机屏幕尺寸分为物理尺寸和显示分辨率两个概念。物理尺寸是指屏幕的实际大小。大的屏幕同时必须要配备高分辨率，也就是在这个尺寸下可以显示多少个像素，显示的像素越多，可以表现的余地自然越大。两台手机的屏幕大小差不多大，却一个只">主屏分辨率</span>
+                                                                <span id="newPmVal_5"><a href="/cell_phone_index/subcate57_list_s4328_1.html">1920x1080像素</a></span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_5,newPmVal_5,726">纠错</em>
+                                                        </li>
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_6" class="param-name">屏幕像素密度</span>
+                                                                <span id="newPmVal_6">428ppi</span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_6,newPmVal_6,16680">纠错</em>
+                                                        </li>
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_7" class="param-name">窄边框</span>
+                                                                <span id="newPmVal_7">3.39mm</span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_7,newPmVal_7,16927">纠错</em>
+                                                        </li>
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_8" class="param-name">屏幕占比</span>
+                                                                <span id="newPmVal_8">70.01%</span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_8,newPmVal_8,16975">纠错</em>
+                                                        </li>
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_9" class="param-name">其他屏幕参数</span>
+                                                                <span id="newPmVal_9">DCI-P3数字影院显示标准，第二代护眼模式</span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_9,newPmVal_9,16922">纠错</em>
+                                                        </li>
+                                                                                                    </ul>
+                                            
+
+                                                                                    </div>
+                                    </td>
+                                </tr>
+                            </tbody></table>
+                                                        <a name="s-2"></a>
+                            <table>
+                                <tbody><tr>
+                                    <th>网络</th>
+                                    <td>
+                                        <div class="param-content">
+                                                                                            <ul class="category-param-list">
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_10" class="param-name">4G网络</span>
+                                                                <span id="newPmVal_10">移动TD-LTE，联通TD-LTE，联通FDD-LTE，电信TD-LTE，电信FDD-LTE</span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_10,newPmVal_10,17007">纠错</em>
+                                                        </li>
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_11" class="param-name">3G网络</span>
+                                                                <span id="newPmVal_11">移动3G（TD-SCDMA），联通3G（WCDMA），电信3G（CDMA2000），<a href="/cell_phone_index/subcate57_list_p5759_1.html">联通2G/移动2G（GSM）</a>，<a href="/cell_phone_index/subcate57_list_p12477_1.html">电信2G（CDMA）</a></span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_11,newPmVal_11,723">纠错</em>
+                                                        </li>
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_12" class="param-name param-explain" data-url="/product_param/index1751.html" data-text="目前，全球手机制式主要包括GSM、CDMA、3G三种，手机自问世至今，经历了第一代模拟制式手机（1G）、第二代GSM、TDMA等数字手机（2G）、第2.5代移动通信技术CDMA和第三代移动通信技术3G。GSM、CDMA和3G比较：GSM数字移动通信系统是由欧洲">支持频段</span>
+                                                                <span id="newPmVal_12">2G：GSM 850/900/1800/1900<br>
+3G：CDMA EVDO 800<br>
+3G：WCDMA B1/2/5/8<br>
+3G：TD-SCDMA B34/39<br>
+4G：TD-LTE B38/39/40/41<br>
+4G：FDD-LTE B1/3/5/8</span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_12,newPmVal_12,724">纠错</em>
+                                                        </li>
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_13" class="param-name">SIM卡</span>
+                                                                <span id="newPmVal_13"><a href="/cell_phone_index/subcate57_list_p29978_1.html">双卡</a>，<a href="/cell_phone_index/subcate57_list_p23403_1.html">Nano SIM卡</a></span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_13,newPmVal_13,15582">纠错</em>
+                                                        </li>
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_14" class="param-name param-explain" data-url="/product_param/index2952.html" data-text="1.WLAN是什么？答：WLAN是WirelessLocalAreaNetwork的缩写，指应用无线通信技术将计算机设备互联起来，构成可以互相通信和实现资源共享的网络体系。无线局域网本质的特点是不再使用通信电缆将计算机与网络连接起来，而是通过无线的方式连">WLAN功能</span>
+                                                                <span id="newPmVal_14">双频WIFI，IEEE 802.11 a/b/g/n/ac</span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_14,newPmVal_14,4234">纠错</em>
+                                                        </li>
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_15" class="param-name">导航</span>
+                                                                <span id="newPmVal_15"><a href="/cell_phone_index/subcate57_list_s2034_1.html">GPS导航</a>，<a href="/cell_phone_index/subcate57_list_s5234_1.html">GLONASS导航</a>，<a href="/cell_phone_index/subcate57_list_s5745_1.html">北斗导航</a></span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_15,newPmVal_15,4239">纠错</em>
+                                                        </li>
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_16" class="param-name">连接与共享</span>
+                                                                <span id="newPmVal_16"><a href="/cell_phone_index/subcate57_list_s5288_1.html">WLAN热点</a>，蓝牙4.2，BLE，<a href="/cell_phone_index/subcate57_list_s5289_1.html">红外遥控</a>，<a href="/cell_phone_index/subcate57_list_s5282_1.html">NFC</a>，<a href="/cell_phone_index/subcate57_list_s5284_1.html">OTG</a></span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_16,newPmVal_16,16896">纠错</em>
+                                                        </li>
+                                                                                                    </ul>
+                                            
+
+                                                                                    </div>
+                                    </td>
+                                </tr>
+                            </tbody></table>
+                                                        <a name="s-3"></a>
+                            <table>
+                                <tbody><tr>
+                                    <th>硬件</th>
+                                    <td>
+                                        <div class="param-content">
+                                                                                            <ul class="category-param-list">
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_17" class="param-name param-explain" data-url="/product_param/index1762.html" data-text="手机操作系统一般只应用在高端智能化手机上。目前，在智能手机市场上，中国市场仍以个人信息管理型手机为主，随着更多厂商的加入，整体市场的竞争已经开始呈现出分散化的态势。从市场容量、竞争状态和应用状况上来看，整个市场仍处于启动">操作系统</span>
+                                                                <span id="newPmVal_17">EMUI 5.1（基于Android 7.0）</span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_17,newPmVal_17,3286">纠错</em>
+                                                        </li>
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_18" class="param-name">用户界面</span>
+                                                                <span id="newPmVal_18">EMUI 5.1</span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_18,newPmVal_18,11702">纠错</em>
+                                                        </li>
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_19" class="param-name">核心数</span>
+                                                                <span id="newPmVal_19"><a href="/cell_phone_index/subcate57_list_s5226_1.html">八核</a></span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_19,newPmVal_19,13731">纠错</em>
+                                                        </li>
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_20" class="param-name">CPU型号</span>
+                                                                <span id="newPmVal_20"><a href="/cell_phone_index/subcate57_list_s6661_1.html">海思 Kirin 960</a></span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_20,newPmVal_20,11703">纠错</em>
+                                                        </li>
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_21" class="param-name">CPU频率</span>
+                                                                <span id="newPmVal_21">2.4GHz（大四核），1.8GHz（小四核）+微智核I6</span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_21,newPmVal_21,8525">纠错</em>
+                                                        </li>
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_22" class="param-name">GPU型号</span>
+                                                                <span id="newPmVal_22">Mali-G71 MP8</span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_22,newPmVal_22,13279">纠错</em>
+                                                        </li>
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_23" class="param-name">RAM容量</span>
+                                                                <span id="newPmVal_23"><a href="/cell_phone_index/subcate57_list_s6134_1.html">4GB</a></span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_23,newPmVal_23,15370">纠错</em>
+                                                        </li>
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_24" class="param-name">ROM容量</span>
+                                                                <span id="newPmVal_24"><a href="/cell_phone_index/subcate57_list_s4150_1.html">64GB</a></span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_24,newPmVal_24,15371">纠错</em>
+                                                        </li>
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_25" class="param-name param-explain" data-url="/product_param/index3288.html" data-text="一:什么叫闪存卡在过去,人们照相要使用胶卷,听歌要有磁带,录相要用录相带,存储文件使用磁盘,科技的发展,尤其是数码产品的发展，促使闪存卡的诞生。目前闪存卡的应用领域范围广泛，使得闪存卡迅猛发展，现在照相存储照片，录相存储视频，">存储卡</span>
+                                                                <span id="newPmVal_25"><a href="/cell_phone_index/subcate57_list_s4339_1.html">MicroSD卡</a></span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_25,newPmVal_25,4246">纠错</em>
+                                                        </li>
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_26" class="param-name">扩展容量</span>
+                                                                <span id="newPmVal_26">256GB</span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_26,newPmVal_26,11704">纠错</em>
+                                                        </li>
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_27" class="param-name">电池类型</span>
+                                                                <span id="newPmVal_27"><a href="/cell_phone_index/subcate57_list_s5370_1.html">不可拆卸式电池</a></span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_27,newPmVal_27,15583">纠错</em>
+                                                        </li>
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_28" class="param-name">电池容量</span>
+                                                                <span id="newPmVal_28">3200mAh</span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_28,newPmVal_28,10119">纠错</em>
+                                                        </li>
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_29" class="param-name">其他硬件参数</span>
+                                                                <span id="newPmVal_29">快速充电</span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_29,newPmVal_29,16926">纠错</em>
+                                                        </li>
+                                                                                                    </ul>
+                                            
+
+                                                                                    </div>
+                                    </td>
+                                </tr>
+                            </tbody></table>
+                                                        <a name="s-4"></a>
+                            <table>
+                                <tbody><tr>
+                                    <th>摄像头</th>
+                                    <td>
+                                        <div class="param-content">
+                                                                                            <ul class="category-param-list">
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_30" class="param-name">摄像头类型</span>
+                                                                <span id="newPmVal_30"><a href="/cell_phone_index/subcate57_list_p22139_1.html">三摄像头（后双）</a></span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_30,newPmVal_30,14414">纠错</em>
+                                                        </li>
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_31" class="param-name param-explain" data-url="/product_param/index3489.html" data-text="像素数包括有效像素（EffectivePixels）和最大像素（MaximumPixels）。与最大像素不同的是有效像素数是指真正参与感光成像的像素值，而最高像素的数值是感光器件的真实像素，这个数据通常包含了感光器件的非成像部分，而有效像素是在镜头">后置摄像头</span>
+                                                                <span id="newPmVal_31">1200万像素+2000万像素</span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_31,newPmVal_31,3800">纠错</em>
+                                                        </li>
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_32" class="param-name">前置摄像头</span>
+                                                                <span id="newPmVal_32"><a href="/cell_phone_index/subcate57_list_s5747_1.html">800万像素</a></span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_32,newPmVal_32,15696">纠错</em>
+                                                        </li>
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_33" class="param-name">传感器类型</span>
+                                                                <span id="newPmVal_33">CMOS</span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_33,newPmVal_33,11707">纠错</em>
+                                                        </li>
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_34" class="param-name">闪光灯</span>
+                                                                <span id="newPmVal_34"><a href="/cell_phone_index/subcate57_list_p13985_1.html">LED补光灯（双色温）</a></span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_34,newPmVal_34,10148">纠错</em>
+                                                        </li>
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_35" class="param-name">光圈</span>
+                                                                <span id="newPmVal_35">主f/2.2，副f/2.0</span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_35,newPmVal_35,11709">纠错</em>
+                                                        </li>
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_36" class="param-name">视频拍摄</span>
+                                                                <span id="newPmVal_36">4K（3840x2160，30帧/秒）视频录制（主）<br>
+1080p（1920×1080，30帧/秒）视频录制（副）<br>
+<br>
+1080p（1920×1080，30帧/秒）视频录制<br>
+1080p（1920×1080，30帧/秒）视频录制</span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_36,newPmVal_36,8510">纠错</em>
+                                                        </li>
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_37" class="param-name">拍照功能</span>
+                                                                <span id="newPmVal_37">PDAF+激光+深度+反差对焦，数码变焦，大光圈拍照，流光快门（含车水马龙、光绘涂鸦、丝绢流水、绚丽星轨），超级夜景，美颜录像，全景，HDR，水印，有声照片，熄屏快拍，笑脸抓拍，声控拍照，定时拍照，触摸拍照，文档校正，慢动作，自动对焦</span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_37,newPmVal_37,16898">纠错</em>
+                                                        </li>
+                                                                                                    </ul>
+                                            
+
+                                                                                    </div>
+                                    </td>
+                                </tr>
+                            </tbody></table>
+                                                        <a name="s-5"></a>
+                            <table>
+                                <tbody><tr>
+                                    <th>外观</th>
+                                    <td>
+                                        <div class="param-content">
+                                                                                            <ul class="category-param-list">
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_38" class="param-name">造型设计</span>
+                                                                <span id="newPmVal_38">直板</span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_38,newPmVal_38,3280">纠错</em>
+                                                        </li>
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_39" class="param-name">机身颜色</span>
+                                                                <span id="newPmVal_39">魅海蓝，琥珀金，海鸥灰，幻夜黑，知更鸟蓝</span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_39,newPmVal_39,1793">纠错</em>
+                                                        </li>
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_40" class="param-name">手机尺寸</span>
+                                                                <span id="newPmVal_40">147.3x70.9x7.45mm</span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_40,newPmVal_40,2083">纠错</em>
+                                                        </li>
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_41" class="param-name">手机重量</span>
+                                                                <span id="newPmVal_41">155g</span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_41,newPmVal_41,720">纠错</em>
+                                                        </li>
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_42" class="param-name">机身材质</span>
+                                                                <span id="newPmVal_42">玻璃机身</span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_42,newPmVal_42,16901">纠错</em>
+                                                        </li>
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_43" class="param-name">操作类型</span>
+                                                                <span id="newPmVal_43"><a href="/cell_phone_index/subcate57_list_s5309_1.html">触控按键</a></span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_43,newPmVal_43,9693">纠错</em>
+                                                        </li>
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_44" class="param-name">感应器类型</span>
+                                                                <span id="newPmVal_44">重力感应器，光线传感器，距离传感器，<a href="/cell_phone_index/subcate57_list_s5292_1.html">指纹识别</a>，<a href="/cell_phone_index/subcate57_list_s5294_1.html">陀螺仪</a>，霍尔传感器，指南针，红外传感器</span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_44,newPmVal_44,15630">纠错</em>
+                                                        </li>
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_45" class="param-name">指纹识别设计</span>
+                                                                <span id="newPmVal_45"><a href="/cell_phone_index/subcate57_list_p30124_1.html">前置指纹识别</a></span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_45,newPmVal_45,21205">纠错</em>
+                                                        </li>
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_46" class="param-name">机身接口</span>
+                                                                <span id="newPmVal_46"><a href="/cell_phone_index/subcate57_list_s7360_1.html">3.5mm耳机接口</a>，<a href="/cell_phone_index/subcate57_list_s6312_1.html">USB Type-C接口</a></span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_46,newPmVal_46,16897">纠错</em>
+                                                        </li>
+                                                                                                    </ul>
+                                            
+
+                                                                                    </div>
+                                    </td>
+                                </tr>
+                            </tbody></table>
+                                                        <a name="s-6"></a>
+                            <table>
+                                <tbody><tr>
+                                    <th>服务与支持</th>
+                                    <td>
+                                        <div class="param-content">
+                                                                                            <ul class="category-param-list">
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_47" class="param-name param-explain" data-url="/product_param/index3479.html" data-text="经典的WAVEWAVE文件作为最经典的Windows多媒体音频格式，应用非常广泛，它使用三个参数来表示声音：采样位数、采样频率和声道数。声道有单声道和立体声之分，采样频率一般有11025Hz（11kHz）、22050Hz（22kHz）和44100Hz（44kHz）三种。W">音频支持</span>
+                                                                <span id="newPmVal_47">支持MIDI/MP3/AAC等格式</span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_47,newPmVal_47,3628">纠错</em>
+                                                        </li>
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_48" class="param-name param-explain" data-url="/product_param/index3478.html" data-text="●AVI格式：它的英文全称为AudioVideoInterleaved，即音频视频交错格式。它于1992年被Microsoft公司推出，随Windows3.1一起被人们所认识和熟知。所谓“音频视频交错”，就是可以将视频和音频交织在一起进行同步播放。这种视频格式的优点">视频支持</span>
+                                                                <span id="newPmVal_48">支持3GP/MP4等格式</span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_48,newPmVal_48,4214">纠错</em>
+                                                        </li>
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_49" class="param-name">图片支持</span>
+                                                                <span id="newPmVal_49">支持JPEG等格式</span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_49,newPmVal_49,11712">纠错</em>
+                                                        </li>
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_50" class="param-name">多媒体技术</span>
+                                                                <span id="newPmVal_50">HUAWEI histen音效</span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_50,newPmVal_50,16903">纠错</em>
+                                                        </li>
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_51" class="param-name">常用功能</span>
+                                                                <span id="newPmVal_51">镜子，天气，计算器，手电筒，闹钟，录音机，指南针</span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_51,newPmVal_51,16899">纠错</em>
+                                                        </li>
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_52" class="param-name">商务功能</span>
+                                                                <span id="newPmVal_52">WPS Office，支持Word、Excel、PPT格式文档查看，支持pdf文档查看，电子邮件</span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_52,newPmVal_52,16900">纠错</em>
+                                                        </li>
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_53" class="param-name">其他功能参数</span>
+                                                                <span id="newPmVal_53">情景智能，运动健康，语音控制，指关节手势，多屏互动</span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_53,newPmVal_53,16921">纠错</em>
+                                                        </li>
+                                                                                                    </ul>
+                                            
+
+                                                                                    </div>
+                                    </td>
+                                </tr>
+                            </tbody></table>
+                                                        <a name="s-7"></a>
+                            <table>
+                                <tbody><tr>
+                                    <th>手机附件</th>
+                                    <td>
+                                        <div class="param-content">
+                                                                                            <ul class="category-param-list">
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_54" class="param-name">包装清单</span>
+                                                                <span id="newPmVal_54">手机 x1<br>
+充电器 x1 <br>
+USB线 x1<br>
+快速指南 x1<br>
+三包凭证 x1<br>
+取卡针 x1</span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_54,newPmVal_54,734">纠错</em>
+                                                        </li>
+                                                                                                    </ul>
+                                            
+
+                                                                                    </div>
+                                    </td>
+                                </tr>
+                            </tbody></table>
+                                                        <a name="s-8"></a>
+                            <table>
+                                <tbody><tr>
+                                    <th>保修信息</th>
+                                    <td>
+                                        <div class="param-content">
+                                                                                            <ul class="category-param-list">
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_55" class="param-name">保修政策</span>
+                                                                <span id="newPmVal_55">全国联保，享受三包服务</span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_55,newPmVal_55,12314">纠错</em>
+                                                        </li>
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_56" class="param-name">质保时间</span>
+                                                                <span id="newPmVal_56">1年</span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_56,newPmVal_56,11648">纠错</em>
+                                                        </li>
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_57" class="param-name">质保备注</span>
+                                                                <span id="newPmVal_57">主机1年，电池6个月，充电器1年</span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_57,newPmVal_57,12315">纠错</em>
+                                                        </li>
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_58" class="param-name">客服电话</span>
+                                                                <span id="newPmVal_58">400-830-8300；400-690-2116；800-830-8300</span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_58,newPmVal_58,12317">纠错</em>
+                                                        </li>
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_59" class="param-name">电话备注</span>
+                                                                <span id="newPmVal_59">周一至周日：8:00-20:00</span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_59,newPmVal_59,12318">纠错</em>
+                                                        </li>
+                                                                                                            <li>
+                                                                                                                            <span id="newPmName_60" class="param-name">详细内容</span>
+                                                                <span id="newPmVal_60">自购机日起（以购机发票为准），如因质量问题或故障，凭厂商维修中心或特约维修点的质量检测证明，享受7日内退货，15日内换货，15日以上在质保期内享受免费保修等三包服务！注：单独购买手机配件产品的用户，请完好保存配件外包装以及发票原件，如无法提供上述凭证的，将无法进行正常的配件保修或更换。<a href="http://www.honor.cn/support/warranty-policy/" target="_blank">进入官网&gt;&gt;</a></span>
+                                                                                                                                                                                        <em class="edit-param" data-role="user-login" data-rel="newPmName_60,newPmVal_60,12319">纠错</em>
+                                                        </li>
+                                                                                                    </ul>
+                                            
+
+                                                                                    </div>
+                                    </td>
+                                </tr>
+                            </tbody></table>
+                                            </div>
+				
+								<table class="param-table-footer">
+					<tbody><tr>
+						<td class="copytable">
+							<span class="add-compare-btn" hidefocus="true" data-rel="1167243,荣耀9（4GB RAM/全网通）,/cell_phone/index1167243.shtml,http://2c.zol-img.com.cn/product/185_80x60/428/ceRXkU1hAk7ig.jpg,57">加入对比栏</span>
+							<span id="copyTableBtn">复制表格</span><em>|</em><span class="picMixed">复制图文混排表格</span>
+						</td>
+					</tr>
+
+					<tr>
+						<td class="ft">
+							<p>仅供参考，请以当地实际销售产品信息为准；如发现资料有误，请投诉</p>
+														<p>感谢热心网友
+																<a href="http://my.zol.com.cn/qq_jny43/">qq_jny43</a>
+																、<a href="http://my.zol.com.cn/watch321/">watch321</a>
+																、<a href="http://my.zol.com.cn/weixin_9j7941n0/">weixin_9j7941n0</a>
+																、<a href="http://my.zol.com.cn/qq_40k0r9n94k4w/">qq_40k0r9n94k4w</a>
+																、<a href="http://my.zol.com.cn/qq_97379c1024p9/">qq_97379c1024p9</a>
+																对本产品参数做出的修正</p>
+													</td>
+					</tr>
+				</tbody></table>
+				
+			</div>
+		
+			<div id="addCompareBtn" class="compare-btn" data-rel="1167243,荣耀9（4GB RAM/全网通）,/cell_phone/index1167243.shtml,http://2c.zol-img.com.cn/product/185_80x60/428/ceRXkU1hAk7ig.jpg,57" style="top: 972px; display: block;">
+				<i></i>
+				<span>+</span>加入对比
+			</div>
+				
+						
+		
+				<div class="section-merchant" id="J_MerchantList"><div class="section-merchant-header">
+	<h3>哪里购买 荣耀9（4GB RAM/全网通）？</h3>
+</div>
+<div class="city-tab-box clearfix">
+	<ul class="city-tab">
+		<li class="active" data-rel="1"><span>北京</span></li>
+				<li data-rel="2"><span>上海</span></li>
+				<li data-rel="0" class="hide" id="mer_other_li"></li>
+	</ul>
+		<div class="more-city">
+		<span class="mico" id="btm_mer_more">更多<i>▼</i></span> 
+		<div class="layerbox city-layerbox" id="mer_provi_select">
+			<div class="layerbox-inner">
+				<div class="layerbox-header clearfix">
+					<h3 class="layerbox-title">请选择省份</h3>
+					<span class="close"></span>
+				</div>
+				<div class="layerbox-main">
+					<ul class="win-citylist" id="mer_other_pro">
+												<li data-rel="10">陕西</li>
+												<li data-rel="30">广东</li>
+												<li data-rel="17">四川</li>
+												<li data-rel="6">辽宁</li>
+												<li data-rel="33">福建</li>
+												<li data-rel="4">重庆</li>
+												<li data-rel="20">湖南</li>
+												<li data-rel="11">山西</li>
+												<li data-rel="18">云南</li>
+												<li data-rel="12">甘肃</li>
+												<li data-rel="31">广西</li>
+												<li data-rel="3">天津</li>
+												<li data-rel="16">青海</li>
+												<li data-rel="8">河北</li>
+												<li data-rel="23">山东</li>
+												<li data-rel="21">湖北</li>
+												<li data-rel="24">安徽</li>
+												<li data-rel="5">黑龙江</li>
+												<li data-rel="22">河南</li>
+												<li data-rel="25">江苏</li>
+												<li data-rel="26">浙江</li>
+												<li data-rel="32">江西</li>
+												<li data-rel="9">内蒙</li>
+												<li data-rel="7">吉林</li>
+												<li data-rel="14">新疆</li>
+												<li data-rel="13">宁夏</li>
+												<li data-rel="19">贵州</li>
+												<li data-rel="34">海南</li>
+											</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+		<p>如果商家有欺诈行为，请<a href="http://service.zol.com.cn/complain/complain.php?id=4">点击这里举报商家</a>，举报热线：400-688-1999</p>
+</div>
+<div id="mer_btm_content">
+			
+		<div class="distributor clearfix" id="btm_mer_list">
+				<table><tbody><tr><th class="tit">商家/电话</th><th>信誉</th><th>报价</th></tr>
+		<tr class="odd">
+			  <td class="tit"><a href="http://s.zol.com.cn/shop_22625/29535076.html?spm=773.0">起航手机商城</a> <div class="tel"><p>13911011312</p></div></td>
+			  <td class="credit"><a href="http://www.zol.com/shop_22625/credit_1_1_1.html"><img title="金冠VIP15年" src="http://icon.zol.com.cn/dealer/credit/t15.gif"></a></td>
+			  <td><span class="price">￥<b>2184</b></span> </td>
+			</tr>
+		<tr>
+			  <td class="tit"><a href="http://s.zol.com.cn/shop_95971/29510318.html?spm=773.0">宏诚手机专卖店</a> <div class="tel"><p>17746594801</p></div></td>
+			  <td class="credit"><a href="http://www.zol.com/shop_95971/credit_1_1_1.html"><img title="金冠VIP11年" src="http://icon.zol.com.cn/dealer/credit/t11.gif"></a></td>
+			  <td><span class="price">￥<b>2184</b></span> </td>
+			</tr>
+		<tr class="odd">
+			  <td class="tit"><a href="http://s.zol.com.cn/shop_60930/30008062.html?spm=773.0">兴达数码商城</a> <div class="tel"><p>13717650488</p></div></td>
+			  <td class="credit"><a href="http://www.zol.com/shop_60930/credit_1_1_1.html"><img title="金冠VIP13年" src="http://icon.zol.com.cn/dealer/credit/t13.gif"></a></td>
+			  <td><span class="price">￥<b>2184</b></span> </td>
+			</tr>
+		</tbody></table><table class="rtable"><tbody><tr><th class="tit">商家/电话</th><th>信誉</th><th>报价</th></tr><tr class="odd">
+			  <td class="tit"><a href="http://s.zol.com.cn/shop_24750/30161898.html?spm=773.0">达达数码</a> <div class="tel"><p>18500906762</p></div></td>
+			  <td class="credit"><a href="http://www.zol.com/shop_24750/credit_1_1_1.html"><img title="金冠VIP15年" src="http://icon.zol.com.cn/dealer/credit/t15.gif"></a></td>
+			  <td><span class="price">￥<b>2184</b></span> </td>
+			</tr>
+		<tr>
+			  <td class="tit"><a href="http://s.zol.com.cn/shop_18076/30433441.html?spm=773.0">宏达手机城</a> <div class="tel"><p>15810653224</p></div></td>
+			  <td class="credit"><a href="http://www.zol.com/shop_18076/credit_1_1_1.html"><img title="金冠VIP14年" src="http://icon.zol.com.cn/dealer/credit/t14.gif"></a></td>
+			  <td><span class="price">￥<b>2069</b></span> </td>
+			</tr>
+					<tr class="odd"><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+				</tbody></table>
+				<p class="more"><a href="/1168/1167243/price_1.shtml" target="_self">查看全部7个商家报价 »</a></p> 
+			</div>
+	
+			
+	</div></div>
+		
+		<div class="back_home"><a class="back_home_btn" href="/cell_phone/index1167243.shtml" target="_self"><span>返回荣耀9（4GB RAM/全网通）首页</span></a></div>
+		
+	</div>
+
+		<div class="side">
+    
+                
+		<div class="adSpace" id="detail_subpage_right_top" style=""><script>write_group_ad('detail_subpage_right_top','1subpage_right_top_sub57_manu50840.inc#4subpage_right_top_manu50840.inc#1subpage_right_top.inc',0,57,50840);</script><script>ad_w();</script><!--AD10AD-->
+<script src="//js.idgdmg.com.cn/s/z005ab0020171020"></script><script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js"></script><ins id="aswift_1_expand" style="display:inline-table;border:none;height:200px;margin:0;padding:0;position:relative;visibility:visible;width:200px;background-color:transparent;"><ins id="aswift_1_anchor" style="display:block;border:none;height:200px;margin:0;padding:0;position:relative;visibility:visible;width:200px;background-color:transparent;"><iframe width="200" height="200" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" onload="var i=this.id,s=window.google_iframe_oncopy,H=s&amp;&amp;s.handlers,h=H&amp;&amp;H[i],w=this.contentWindow,d;try{d=w.document}catch(e){}if(h&amp;&amp;d&amp;&amp;(!d.body||!d.body.firstChild)){if(h.call){setTimeout(h,0)}else if(h.match){try{h=s.upd(h,i)}catch(e){}w.location.replace(h)}}" id="aswift_1" name="aswift_1" style="left:0;position:absolute;top:0;width:200px;height:200px;"></iframe></ins></ins>
+<script>ad_w();</script><script>ad_w();</script></div>      
+				
+				
+				
+		<div class="adSpace" id="detail_index_recommend_merchant_top" style="display: none;"><script>write_group_ad('detail_index_recommend_merchant_top','4diqu_detail_merchant_top_sub_57_loc_{LOCATIONID}.inc#1detail_merchant_top_sub_57_manu_50840.inc',0,57,50840);</script><script>ad_w();</script><script>ad_w();</script></div>		<div class="adSpace" id="detail_detail_subcate_tong" style="display: none;"><script>write_group_ad('detail_detail_subcate_tong','1detail_tong_sub_57_manu_0.inc',0,57,50840);</script><script>ad_w();</script></div>		<div class="adSpace" id="detail_index_like_bottom" style=""><script>write_group_ad('detail_index_like_bottom','4diqu_detail_page_merchant_up_s_57_m_50840_l_{LOCATIONID}.inc#4diqu_detail_page_merchant_up_s_57_m_0_l_{LOCATIONID}.inc#1detail_page_merchant_up_s_57_m_50840.inc#1detail_page_merchant_up_s_57.inc',0,57,50840);</script><script>ad_w();</script><!--AD10AD-->
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-7443704194229694";
+/* IDG.CN_B2C_zol.com.cn_200x200_2 */
+google_ad_slot = "1563234904";
+google_ad_width = 200;
+google_ad_height = 200;
+//-->
+</script>
+<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script><ins id="aswift_2_expand" style="display:inline-table;border:none;height:200px;margin:0;padding:0;position:relative;visibility:visible;width:200px;background-color:transparent;"><ins id="aswift_2_anchor" style="display:block;border:none;height:200px;margin:0;padding:0;position:relative;visibility:visible;width:200px;background-color:transparent;"><iframe width="200" height="200" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" onload="var i=this.id,s=window.google_iframe_oncopy,H=s&amp;&amp;s.handlers,h=H&amp;&amp;H[i],w=this.contentWindow,d;try{d=w.document}catch(e){}if(h&amp;&amp;d&amp;&amp;(!d.body||!d.body.firstChild)){if(h.call){setTimeout(h,0)}else if(h.match){try{h=s.upd(h,i)}catch(e){}w.location.replace(h)}}" id="aswift_2" name="aswift_2" style="left:0;position:absolute;top:0;width:200px;height:200px;"></iframe></ins></ins>
+
+<script>ad_w();</script><script>ad_w();</script><script>ad_w();</script></div>		
+				
+        
+<!--  >>> PART:DetailVer3/Part/Detail/AdZPlusGoods >>> -->
+<!--天猫iframe广告位-->
+<div class="zplus_ad">
+    <iframe id="zplus_ad" width="220" scrolling="no" height="364" frameborder="0" src="http://detail.zol.com.cn/corpTmall_ShopAd_type=2.html?ipck=142v3Iyyv8EuMzAzOTA4LjE1MDk4OTQ2Mzk%253D" marginwidth="0" marginheight="0"></iframe>
+</div>
+<script>
+    var ipck = '';
+    if (document.cookie && document.cookie.match(/ip_ck=([^;$]+)/)) {
+        ipck = document.cookie.match(/ip_ck=([^;$]+)/)[1];
+    }
+    document.getElementById("zplus_ad").src='http://detail.zol.com.cn/corpTmall_ShopAd_type=2.html?ipck='+encodeURIComponent(ipck);
+</script>
+<!--  <<< PART:DetailVer3/Part/Detail/AdZPlusGoods <<< -->
+        
+		<div class="adSpace" id="detail_index_submanu_rank_top" style="display: none;"><script>write_group_ad('detail_index_submanu_rank_top','1detail_subcate_rank_top_all.inc',0,57,50840);</script><script>ad_w();</script></div>		<div class="adSpace" id="detail_index_manupro_rank_bottom" style="display: none;"><script>write_group_ad('detail_index_manupro_rank_bottom','1detail_baidu_ad.inc',0,57,50840);</script><script>ad_w();</script></div>		
+		
+				
+		<div class="adSpace" id="detail_index_submanu_rank_bottom" style="display: none;"><script>write_group_ad('detail_index_submanu_rank_bottom','4diqu_detail_baidu_top_all_s_57_m_0_l_{LOCATIONID}.inc#5detail_baidu_top_all_s_57_m_0.inc',0,57,50840);</script><script>ad_w();</script><script>ad_w();</script></div>		
+				
+		<div class="adSpace" id="detail_second_param_rank_top" style="display: none;"><script>write_group_ad('detail_second_param_rank_top','1second_param_rank_top.inc',0,57,50840);</script><script>ad_w();</script></div>		
+								
+		<div class="adSpace" id="detail_pic_right_button" style="display: none;"><script>write_group_ad('detail_pic_right_button','2pic_right_button.inc',0,57,50840);</script><script>ad_w();</script></div>		
+						<div id="J_VisitedSubPro" style="display: none;"><div class="module">
+	<div class="module-header"><h3>曾经浏览过的产品：</h3></div>
+	<ul class="visited-list">
+				<li>
+			  <input type="checkbox" class="visitedProsId" rel="1168796" checked="">
+			  <a href="/cell_phone/index1168796.shtml" title="金立S10（全网通）" class="pic"><img src="http://2d.zol-img.com.cn/product/185_60x45/519/ceDmjIz0YqXXA.jpg" alt="金立S10（全网通）" width="60" height="45"></a>
+			  <p><a href="/cell_phone/index1168796.shtml">金立S10（全网通）</a></p>
+			  <p class="visited-price">￥2599</p>
+			</li>
+		</ul>
+	<div class="visited-compare">
+		<input type="button" value="对比所选产品" id="visitedProsBtn">
+	</div>
+
+</div></div>
+				
+				<div class="adSpace" id="detail_index_driver_bottom" style=""><script>write_group_ad('detail_index_driver_bottom','4detail_bt_tu_ad_57_wide.inc#1detail_bt_tu_ad.inc',0,57,50840);</script><script>ad_w();</script><!--AD10AD-->
+<script type="text/javascript">
+    /*产品最终页右侧底部button-手机200x200,创建于 2017/9/21*/
+    var cpro_id = "u3101042";
+</script>
+<script type="text/javascript" src="http://cpro.baidustatic.com/cpro/ui/c.js"></script>
+<script>ad_w();</script></div>			</div>
+	
+</div>
+
+<script src="http://s.zol-img.com.cn/d/Pro/Pro_param_v3.js?v=36891"></script><script src="http://icon.zol-img.com.cn/group/js/login.js"></script><div id="v3CompareBox" class="v3-compare-box" style="display:none"><div class="v3-compare-box-header"><span id="v3CompareClose" class="v3-compare-box-close">关闭</span><h4 class="v3-compare-box-title">[<span id="v3CompareNum">0</span>/4] 对比框</h4></div><ul id="v3CompareItems" class="v3-compare-box-list"></ul><div class="v3-compare-box-buttons"><form id="v3CompareButtons" method="post" action="" target="_blank"><button type="button" hidefocus="true" class="v3-compare-box-button" id="v3CompareParamBtn">对比</button></form><em id="v3CompareDelAll" class="v3-compare-box-clear">清空对比栏</em></div></div>
+<div class="wrapper">
+  <script>var __publicNavWidth=1000;</script><script language="JavaScript" type="text/javascript" src="http://icon.zol-img.com.cn/public/js/web_footc.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://icon.zol-img.com.cn/public/js/web_foot_d.js"></script><script type="text/javascript" id="pv_d" src="http://zdw.w8.com.cn/p.ht?h=&amp;t=1509894&amp;c=142v3Iyyv8EuMzAzOTA4LjE1MDk4OTQ2Mzk="></script><img style="display:none" id="dot_pvm" border="0" width="1" height="1" src="http://pic.zol-img.com.cn/dot.gif"><img style="display:none" border="0" width="1" height="1" src="http://pv.zol.com.cn/images/pvhit0001.gif?t=1509894763824949&amp;subcat=57&amp;vuserid=&amp;&amp;ip_ck=142v3Iyyv8EuMzAzOTA4LjE1MDk4OTQ2Mzk=&amp;lv=1509894729&amp;vn=1&amp;sr=2560x1080&amp;sc=32&amp;fl=Not enabled&amp;ti=%E3%80%90%E8%8D%A3%E8%80%809%204GB%20RAM%2F%E5%85%A8%E7%BD%91%E9%80%9A%E5%8F%82%E6%95%B0%E3%80%91%E8%8D%A3%E8%80%80%209%204GB%20RAM%2F%E5%85%A8%E7%BD%91%E9%80%9A%E6%89%8B%E6%9C%BA%E5%8F%82%E6%95%B0_%E8%A7%84%E6%A0%BC_%E6%80%A7%E8%83%BD_%E5%8A%9F%E8%83%BD-ZOL%E4%B8%AD%E5%85%B3%E6%9D%91%E5%9C%A8%E7%BA%BF&amp;se=8f64db05c3d248f98a0a9fa009b45b27&amp;uv=162.243.150.64&amp;cv=&amp;zmac=0&amp;manuid=0&amp;ldt=19052&amp;mzcv=&amp;mztext=&amp;third_ip_ck=142v3Iyyv8EuMzAzOTA4LjE1MDk4OTQ2Mzk=&amp;posid="><script src="http://stat.zol.com.cn/adrs/cg_gmine.js" type="text/javascript"></script><img id="gmine" width="1px" height="0px" style="display:none;"><script type="text/javascript" id="adstat_js" src="http://stat.zol.com.cn/adrs/ol.js"></script><script type="text/javascript" src="//stat.zol.com.cn/adrs/bms_tag.php?0.26924571488052607"></script><div style="width:1px;height:0px;overflow:hidden;"><iframe src="//stat.zol.com.cn/cgrs.html?adrs=aHR0cDovLzF7WH1odHRwOi8vcHJpY2Uuem9sLmNvbS5jbi97WH16b2x7WH0w&amp;adcode=PG9iamVjdCBjbGFzc2lkPVwiY2xzaWQ6ZDI3Y2RiNmUtYWU2ZC0xMWNmLTk2YjgtNDQ0NTUzNTQwMDAwXCIgY29kZWJhc2U9XCJodHRwOlwvXC9mcGRvd25sb2FkLm1hY3JvbWVkaWEuY29tXC9wdWJcL3Nob2Nrd2F2ZVwvY2Fic1wvZmxhc2hcL3N3Zmxhc2guY2FiI3ZlcnNpb249NywwLDAsMFwiIHdpZHRoPVwiMHB4XCIgaGVpZ2h0PVwiMXB4XCIgaWQ9XCJVbnRpdGxlZC0xXCI+Cgk8cGFyYW0gbmFtZT1cIm1vdmllXCIgdmFsdWU9XCJcL1wvcGljLnpvbC1pbWcuY29tLmNuXC8yMDE3MTBcL3NoZW56OTg0NDdxZzk4MF8xMDMxLnN3ZlwiIFwvPgoJPGVtYmVkIHNyYz1cIlwvXC9waWMuem9sLWltZy5jb20uY25cLzIwMTcxMFwvc2hlbno5ODQ0N3FnOTgwXzEwMzEuc3dmXCIgd2lkdGg9XCIwcHhcIiAgaGVpZ2h0PVwiMXB4XCIgbmFtZT1cIm15bW92aWVcIiAgdHlwZT1cImFwcGxpY2F0aW9uXC94LXNob2Nrd2F2ZS1mbGFzaFwiIHBsdWdpbnNwYWdlPVwiaHR0cDpcL1wvd3d3Lm1hY3JvbWVkaWEuY29tXC9nb1wvZ2V0Zmxhc2hwbGF5ZXJcIiBcLz4KCTxcL29iamVjdD4=&amp;mr=1069901879" marginheight="0" marginwidth="1" frameborder="0" scrolling="no" width="1" height="0"></iframe><img width="0" height="0" border="0" src="//imp.zol.com.cn/imphit0001.gif?impid=shenz98447qg980&amp;barid=125367&amp;type=2&amp;tmp=1662728276"><img width="0" height="0" border="0" src="http://ca.w8.com.cn/pv?s=zol&amp;on=zol&amp;id=125367&amp;tmp=1236623269"><iframe src="//stat.zol.com.cn/cgrs.html?adrs=aHR0cDovLzF7WH1odHRwOi8vYmJzLnpvbC5jb20uY24ve1h9em9se1h9MA==&amp;adcode=PG9iamVjdCBjbGFzc2lkPVwiY2xzaWQ6ZDI3Y2RiNmUtYWU2ZC0xMWNmLTk2YjgtNDQ0NTUzNTQwMDAwXCIgY29kZWJhc2U9XCJodHRwOlwvXC9mcGRvd25sb2FkLm1hY3JvbWVkaWEuY29tXC9wdWJcL3Nob2Nrd2F2ZVwvY2Fic1wvZmxhc2hcL3N3Zmxhc2guY2FiI3ZlcnNpb249NywwLDAsMFwiIHdpZHRoPVwiMHB4XCIgaGVpZ2h0PVwiMXB4XCIgaWQ9XCJVbnRpdGxlZC0xXCI+Cgk8cGFyYW0gbmFtZT1cIm1vdmllXCIgdmFsdWU9XCJcL1wvcGljLnpvbC1pbWcuY29tLmNuXC8yMDE3MTBcL3NoZW56OTg0MzNiYnMxMDAwXzEwMzEuc3dmXCIgXC8+Cgk8ZW1iZWQgc3JjPVwiXC9cL3BpYy56b2wtaW1nLmNvbS5jblwvMjAxNzEwXC9zaGVuejk4NDMzYmJzMTAwMF8xMDMxLnN3ZlwiIHdpZHRoPVwiMHB4XCIgIGhlaWdodD1cIjFweFwiIG5hbWU9XCJteW1vdmllXCIgIHR5cGU9XCJhcHBsaWNhdGlvblwveC1zaG9ja3dhdmUtZmxhc2hcIiBwbHVnaW5zcGFnZT1cImh0dHA6XC9cL3d3dy5tYWNyb21lZGlhLmNvbVwvZ29cL2dldGZsYXNocGxheWVyXCIgXC8+Cgk8XC9vYmplY3Q+&amp;mr=1425113095" marginheight="0" marginwidth="1" frameborder="0" scrolling="no" width="1" height="0"></iframe><img width="0" height="0" border="0" src="//imp.zol.com.cn/imphit0001.gif?impid=shenz98433bbs1000&amp;barid=125351&amp;type=2&amp;tmp=1962201306"><img width="0" height="0" border="0" src="http://ca.w8.com.cn/pv?s=zol&amp;on=zol&amp;id=125351&amp;tmp=1277211796"><iframe src="//stat.zol.com.cn/cgrs.html?adrs=aHR0cDovLzF7WH1odHRwOi8vbmIuem9sLmNvbS5jbi82NjMvNjYzNzc1Ny5odG1se1h9em9se1h9MA==&amp;adcode=PG9iamVjdCBjbGFzc2lkPVwiY2xzaWQ6ZDI3Y2RiNmUtYWU2ZC0xMWNmLTk2YjgtNDQ0NTUzNTQwMDAwXCIgY29kZWJhc2U9XCJodHRwOlwvXC9mcGRvd25sb2FkLm1hY3JvbWVkaWEuY29tXC9wdWJcL3Nob2Nrd2F2ZVwvY2Fic1wvZmxhc2hcL3N3Zmxhc2guY2FiI3ZlcnNpb249NywwLDAsMFwiIHdpZHRoPVwiMHB4XCIgaGVpZ2h0PVwiMXB4XCIgaWQ9XCJVbnRpdGxlZC0xXCI+Cgk8cGFyYW0gbmFtZT1cIm1vdmllXCIgdmFsdWU9XCJcL1wvcGljLnpvbC1pbWcuY29tLmNuXC8yMDE3MTBcL3NoZW56OTg0MzhuYjcyOG5fMTAzMS5zd2ZcIiBcLz4KCTxlbWJlZCBzcmM9XCJcL1wvcGljLnpvbC1pbWcuY29tLmNuXC8yMDE3MTBcL3NoZW56OTg0MzhuYjcyOG5fMTAzMS5zd2ZcIiB3aWR0aD1cIjBweFwiICBoZWlnaHQ9XCIxcHhcIiBuYW1lPVwibXltb3ZpZVwiICB0eXBlPVwiYXBwbGljYXRpb25cL3gtc2hvY2t3YXZlLWZsYXNoXCIgcGx1Z2luc3BhZ2U9XCJodHRwOlwvXC93d3cubWFjcm9tZWRpYS5jb21cL2dvXC9nZXRmbGFzaHBsYXllclwiIFwvPgoJPFwvb2JqZWN0Pg==&amp;mr=1315111696" marginheight="0" marginwidth="1" frameborder="0" scrolling="no" width="1" height="0"></iframe><img width="0" height="0" border="0" src="//imp.zol.com.cn/imphit0001.gif?impid=shenz98438nb728n&amp;barid=125332&amp;type=2&amp;tmp=1840105703"><img width="0" height="0" border="0" src="http://ca.w8.com.cn/pv?s=zol&amp;on=zol&amp;id=125332&amp;tmp=240111582"><iframe src="//stat.zol.com.cn/cgrs.html?adrs=aHR0cDovLzF7WH1odHRwOi8vamQuem9sLmNvbS5jbi97WH16b2x7WH0w&amp;adcode=PG9iamVjdCBjbGFzc2lkPVwiY2xzaWQ6ZDI3Y2RiNmUtYWU2ZC0xMWNmLTk2YjgtNDQ0NTUzNTQwMDAwXCIgY29kZWJhc2U9XCJodHRwOlwvXC9mcGRvd25sb2FkLm1hY3JvbWVkaWEuY29tXC9wdWJcL3Nob2Nrd2F2ZVwvY2Fic1wvZmxhc2hcL3N3Zmxhc2guY2FiI3ZlcnNpb249NywwLDAsMFwiIHdpZHRoPVwiMHB4XCIgaGVpZ2h0PVwiMXB4XCIgaWQ9XCJVbnRpdGxlZC0xXCI+Cgk8cGFyYW0gbmFtZT1cIm1vdmllXCIgdmFsdWU9XCJcL1wvcGljLnpvbC1pbWcuY29tLmNuXC8yMDE3MTFcL2dtOTc4NDFqZDEwMDBkaF8xMTA1LnN3ZlwiIFwvPgoJPGVtYmVkIHNyYz1cIlwvXC9waWMuem9sLWltZy5jb20uY25cLzIwMTcxMVwvZ205Nzg0MWpkMTAwMGRoXzExMDUuc3dmXCIgd2lkdGg9XCIwcHhcIiAgaGVpZ2h0PVwiMXB4XCIgbmFtZT1cIm15bW92aWVcIiAgdHlwZT1cImFwcGxpY2F0aW9uXC94LXNob2Nrd2F2ZS1mbGFzaFwiIHBsdWdpbnNwYWdlPVwiaHR0cDpcL1wvd3d3Lm1hY3JvbWVkaWEuY29tXC9nb1wvZ2V0Zmxhc2hwbGF5ZXJcIiBcLz4KCTxcL29iamVjdD4=&amp;mr=857118140" marginheight="0" marginwidth="1" frameborder="0" scrolling="no" width="1" height="0"></iframe><img width="0" height="0" border="0" src="//imp.zol.com.cn/imphit0001.gif?impid=gm97841jd1000dh&amp;barid=125438&amp;type=2&amp;tmp=1758821478"><img width="0" height="0" border="0" src="http://ca.w8.com.cn/pv?s=zol&amp;on=zol&amp;id=125438&amp;tmp=662810827"><iframe src="//stat.zol.com.cn/cgrs.html?adrs=aHR0cDovLzF7WH1odHRwOi8vYmJzLnpvbC5jb20uY24ve1h9em9se1h9MA==&amp;adcode=PG9iamVjdCBjbGFzc2lkPVwiY2xzaWQ6ZDI3Y2RiNmUtYWU2ZC0xMWNmLTk2YjgtNDQ0NTUzNTQwMDAwXCIgY29kZWJhc2U9XCJodHRwOlwvXC9mcGRvd25sb2FkLm1hY3JvbWVkaWEuY29tXC9wdWJcL3Nob2Nrd2F2ZVwvY2Fic1wvZmxhc2hcL3N3Zmxhc2guY2FiI3ZlcnNpb249NywwLDAsMFwiIHdpZHRoPVwiMHB4XCIgaGVpZ2h0PVwiMXB4XCIgaWQ9XCJVbnRpdGxlZC0xXCI+Cgk8cGFyYW0gbmFtZT1cIm1vdmllXCIgdmFsdWU9XCJcL1wvcGljLnpvbC1pbWcuY29tLmNuXC8yMDE3MTBcL3NoZW56OTg0MzNiYnMxMDAwXzEwMzEuc3dmXCIgXC8+Cgk8ZW1iZWQgc3JjPVwiXC9cL3BpYy56b2wtaW1nLmNvbS5jblwvMjAxNzEwXC9zaGVuejk4NDMzYmJzMTAwMF8xMDMxLnN3ZlwiIHdpZHRoPVwiMHB4XCIgIGhlaWdodD1cIjFweFwiIG5hbWU9XCJteW1vdmllXCIgIHR5cGU9XCJhcHBsaWNhdGlvblwveC1zaG9ja3dhdmUtZmxhc2hcIiBwbHVnaW5zcGFnZT1cImh0dHA6XC9cL3d3dy5tYWNyb21lZGlhLmNvbVwvZ29cL2dldGZsYXNocGxheWVyXCIgXC8+Cgk8XC9vYmplY3Q+&amp;mr=84267808" marginheight="0" marginwidth="1" frameborder="0" scrolling="no" width="1" height="0"></iframe><img width="0" height="0" border="0" src="//imp.zol.com.cn/imphit0001.gif?impid=shenz98433bbs1000&amp;barid=125351&amp;type=2&amp;tmp=327732064"><img width="0" height="0" border="0" src="http://ca.w8.com.cn/pv?s=zol&amp;on=zol&amp;id=125351&amp;tmp=1669166800"><iframe src="http://g.cn.miaozhen.com/x/k=2062267&amp;p=79jT7&amp;dx=__IPDX__&amp;rt=2&amp;ns=__IP__&amp;ni=__IESID__&amp;v=__LOC__&amp;xa=__ADPLATFORM__&amp;tr=__REQUESTID__&amp;o=" marginheight="0" marginwidth="1" frameborder="0" scrolling="no" width="1" height="0"></iframe><img width="0" height="0" border="0" src="//imp.zol.com.cn/imphit0001.gif?impid=haier97232hp1000zm&amp;barid=125477&amp;type=2&amp;tmp=1435750378"><img width="0" height="0" border="0" src="http://ca.w8.com.cn/pv?s=zol&amp;on=zol&amp;id=125477&amp;tmp=1256859946"><iframe src="//stat.zol.com.cn/cgrs.html?adrs=aHR0cDovLzF7WH1odHRwOi8vb2Euem9sLmNvbS5jbi97WH16b2x7WH0w&amp;adcode=PG9iamVjdCBjbGFzc2lkPVwiY2xzaWQ6ZDI3Y2RiNmUtYWU2ZC0xMWNmLTk2YjgtNDQ0NTUzNTQwMDAwXCIgY29kZWJhc2U9XCJodHRwOlwvXC9mcGRvd25sb2FkLm1hY3JvbWVkaWEuY29tXC9wdWJcL3Nob2Nrd2F2ZVwvY2Fic1wvZmxhc2hcL3N3Zmxhc2guY2FiI3ZlcnNpb249NywwLDAsMFwiIHdpZHRoPVwiMHB4XCIgaGVpZ2h0PVwiMXB4XCIgaWQ9XCJVbnRpdGxlZC0xXCI+Cgk8cGFyYW0gbmFtZT1cIm1vdmllXCIgdmFsdWU9XCJcL1wvcGljLnpvbC1pbWcuY29tLmNuXC8yMDE3MTFcL2pkOTg0MTVvYTEwMDBfMTEwNS5zd2ZcIiBcLz4KCTxlbWJlZCBzcmM9XCJcL1wvcGljLnpvbC1pbWcuY29tLmNuXC8yMDE3MTFcL2pkOTg0MTVvYTEwMDBfMTEwNS5zd2ZcIiB3aWR0aD1cIjBweFwiICBoZWlnaHQ9XCIxcHhcIiBuYW1lPVwibXltb3ZpZVwiICB0eXBlPVwiYXBwbGljYXRpb25cL3gtc2hvY2t3YXZlLWZsYXNoXCIgcGx1Z2luc3BhZ2U9XCJodHRwOlwvXC93d3cubWFjcm9tZWRpYS5jb21cL2dvXC9nZXRmbGFzaHBsYXllclwiIFwvPgoJPFwvb2JqZWN0Pg==&amp;mr=1931471983" marginheight="0" marginwidth="1" frameborder="0" scrolling="no" width="1" height="0"></iframe><img width="0" height="0" border="0" src="//imp.zol.com.cn/imphit0001.gif?impid=jd98415oa1000&amp;barid=125396&amp;type=2&amp;tmp=1414073668"><img width="0" height="0" border="0" src="http://ca.w8.com.cn/pv?s=zol&amp;on=zol&amp;id=125396&amp;tmp=2092741172"><iframe src="//stat.zol.com.cn/cgrs.html?adrs=aHR0cDovLzF7WH1odHRwOi8vbmV3cy56b2wuY29tLmNuL3tYfXpvbHtYfTA=&amp;adcode=PG9iamVjdCBjbGFzc2lkPVwiY2xzaWQ6ZDI3Y2RiNmUtYWU2ZC0xMWNmLTk2YjgtNDQ0NTUzNTQwMDAwXCIgY29kZWJhc2U9XCJodHRwOlwvXC9mcGRvd25sb2FkLm1hY3JvbWVkaWEuY29tXC9wdWJcL3Nob2Nrd2F2ZVwvY2Fic1wvZmxhc2hcL3N3Zmxhc2guY2FiI3ZlcnNpb249NywwLDAsMFwiIHdpZHRoPVwiMHB4XCIgaGVpZ2h0PVwiMXB4XCIgaWQ9XCJVbnRpdGxlZC0xXCI+Cgk8cGFyYW0gbmFtZT1cIm1vdmllXCIgdmFsdWU9XCJcL1wvcGljLnpvbC1pbWcuY29tLmNuXC8yMDE3MTFcL2pkOTg0MTVuZXdzNjYwXzExMDUuc3dmXCIgXC8+Cgk8ZW1iZWQgc3JjPVwiXC9cL3BpYy56b2wtaW1nLmNvbS5jblwvMjAxNzExXC9qZDk4NDE1bmV3czY2MF8xMTA1LnN3ZlwiIHdpZHRoPVwiMHB4XCIgIGhlaWdodD1cIjFweFwiIG5hbWU9XCJteW1vdmllXCIgIHR5cGU9XCJhcHBsaWNhdGlvblwveC1zaG9ja3dhdmUtZmxhc2hcIiBwbHVnaW5zcGFnZT1cImh0dHA6XC9cL3d3dy5tYWNyb21lZGlhLmNvbVwvZ29cL2dldGZsYXNocGxheWVyXCIgXC8+Cgk8XC9vYmplY3Q+&amp;mr=1118394606" marginheight="0" marginwidth="1" frameborder="0" scrolling="no" width="1" height="0"></iframe><img width="0" height="0" border="0" src="//imp.zol.com.cn/imphit0001.gif?impid=jd98415news660&amp;barid=125407&amp;type=2&amp;tmp=1213127150"><img width="0" height="0" border="0" src="http://ca.w8.com.cn/pv?s=zol&amp;on=zol&amp;id=125407&amp;tmp=303255835"><iframe src="//stat.zdnet.com.cn/cgrs.html?adrs=aHR0cDovL3tYfWh0dHA6Ly9zb2Z0LnpoaWRpbmcuY24vc29mdHdhcmVfem9uZS8yMDE3LzEwMjYvMzA5OTY1My5zaHRtbHtYfXpkbmV0e1h9MA==&amp;adcode=PHNjcmlwdD4NCnZhciBfaG10ID0gX2htdCB8fCBbXTsNCihmdW5jdGlvbigpIHsNCiAgdmFyIGhtID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudChcInNjcmlwdFwiKTsNCiAgaG0uc3JjID0gXCJcL1wvaG0uYmFpZHUuY29tXC9obS5qcz8yMDJjM2ZhNjFkYTkyYjgwMWJmZWM4ODgzNGFjMGE1NlwiOw0KICB2YXIgcyA9IGRvY3VtZW50LmdldEVsZW1lbnRzQnlUYWdOYW1lKFwic2NyaXB0XCIpWzBdOyANCiAgcy5wYXJlbnROb2RlLmluc2VydEJlZm9yZShobSwgcyk7DQp9KSgpOw0KPFwvc2NyaXB0Pg0K&amp;mr=1230480270" marginheight="0" marginwidth="1" frameborder="0" scrolling="no" width="1" height="0"></iframe><img width="0" height="0" border="0" src="//imp.zdnet.com.cn/imphit0001.gif?impid=zdnet2847soft_art&amp;barid=9707&amp;type=2&amp;tmp=1355528327"><img width="0" height="0" border="0" src="http://ca.w8.com.cn/pv?s=zdnet&amp;on=zol&amp;id=9707&amp;tmp=520097044"><iframe src="//stat.zol.com.cn/cgrs.html?adrs=aHR0cDovLzF7WH1odHRwOi8vYmJzLnpvbC5jb20uY24ve1h9em9se1h9MA==&amp;adcode=PG9iamVjdCBjbGFzc2lkPVwiY2xzaWQ6ZDI3Y2RiNmUtYWU2ZC0xMWNmLTk2YjgtNDQ0NTUzNTQwMDAwXCIgY29kZWJhc2U9XCJodHRwOlwvXC9mcGRvd25sb2FkLm1hY3JvbWVkaWEuY29tXC9wdWJcL3Nob2Nrd2F2ZVwvY2Fic1wvZmxhc2hcL3N3Zmxhc2guY2FiI3ZlcnNpb249NywwLDAsMFwiIHdpZHRoPVwiMHB4XCIgaGVpZ2h0PVwiMXB4XCIgaWQ9XCJVbnRpdGxlZC0xXCI+Cgk8cGFyYW0gbmFtZT1cIm1vdmllXCIgdmFsdWU9XCJcL1wvcGljLnpvbC1pbWcuY29tLmNuXC8yMDE3MTFcL2dtOTc4NDFiYnMxMDAwamR0XzExMDUuc3dmXCIgXC8+Cgk8ZW1iZWQgc3JjPVwiXC9cL3BpYy56b2wtaW1nLmNvbS5jblwvMjAxNzExXC9nbTk3ODQxYmJzMTAwMGpkdF8xMTA1LnN3ZlwiIHdpZHRoPVwiMHB4XCIgIGhlaWdodD1cIjFweFwiIG5hbWU9XCJteW1vdmllXCIgIHR5cGU9XCJhcHBsaWNhdGlvblwveC1zaG9ja3dhdmUtZmxhc2hcIiBwbHVnaW5zcGFnZT1cImh0dHA6XC9cL3d3dy5tYWNyb21lZGlhLmNvbVwvZ29cL2dldGZsYXNocGxheWVyXCIgXC8+Cgk8XC9vYmplY3Q+&amp;mr=942710489" marginheight="0" marginwidth="1" frameborder="0" scrolling="no" width="1" height="0"></iframe><img width="0" height="0" border="0" src="//imp.zol.com.cn/imphit0001.gif?impid=gm97841bbs1000jdt&amp;barid=125441&amp;type=2&amp;tmp=1075402304"><img width="0" height="0" border="0" src="http://ca.w8.com.cn/pv?s=zol&amp;on=zol&amp;id=125441&amp;tmp=667889112"><iframe src="//stat.zol.com.cn/cgrs.html?adrs=aHR0cDovLzF7WH1odHRwOi8vZGV0YWlsLnpvbC5jb20uY24vbW90aGVyYm9hcmQve1h9em9se1h9MA==&amp;adcode=PG9iamVjdCBjbGFzc2lkPVwiY2xzaWQ6ZDI3Y2RiNmUtYWU2ZC0xMWNmLTk2YjgtNDQ0NTUzNTQwMDAwXCIgY29kZWJhc2U9XCJodHRwOlwvXC9mcGRvd25sb2FkLm1hY3JvbWVkaWEuY29tXC9wdWJcL3Nob2Nrd2F2ZVwvY2Fic1wvZmxhc2hcL3N3Zmxhc2guY2FiI3ZlcnNpb249NywwLDAsMFwiIHdpZHRoPVwiMHB4XCIgaGVpZ2h0PVwiMXB4XCIgaWQ9XCJVbnRpdGxlZC0xXCI+Cgk8cGFyYW0gbmFtZT1cIm1vdmllXCIgdmFsdWU9XCJcL1wvcGljLnpvbC1pbWcuY29tLmNuXC8yMDE3MTFcL2FzdXM5ODM5OHBybzEwMDBzeXBzXzExMDEuc3dmXCIgXC8+Cgk8ZW1iZWQgc3JjPVwiXC9cL3BpYy56b2wtaW1nLmNvbS5jblwvMjAxNzExXC9hc3VzOTgzOThwcm8xMDAwc3lwc18xMTAxLnN3ZlwiIHdpZHRoPVwiMHB4XCIgIGhlaWdodD1cIjFweFwiIG5hbWU9XCJteW1vdmllXCIgIHR5cGU9XCJhcHBsaWNhdGlvblwveC1zaG9ja3dhdmUtZmxhc2hcIiBwbHVnaW5zcGFnZT1cImh0dHA6XC9cL3d3dy5tYWNyb21lZGlhLmNvbVwvZ29cL2dldGZsYXNocGxheWVyXCIgXC8+Cgk8XC9vYmplY3Q+&amp;mr=1181825580" marginheight="0" marginwidth="1" frameborder="0" scrolling="no" width="1" height="0"></iframe><img width="0" height="0" border="0" src="//imp.zol.com.cn/imphit0001.gif?impid=asus98398pro1000syps&amp;barid=125464&amp;type=2&amp;tmp=2046302067"><img width="0" height="0" border="0" src="http://ca.w8.com.cn/pv?s=zol&amp;on=zol&amp;id=125464&amp;tmp=1027565250"></div><div style="position: fixed; bottom: 0px; right: 0px; display: block; z-index: 99;">
+                    <div style="position:absolute;top:0;right:0;height:20px;width:40px;cursor:default;background:url(http://pic.zol-img.com.cn/201603/ad_close_0309_0309.png) no-repeat;" onclick="this.parentNode.style.display='none'"></div>
+                    <div id="baidu-fixed-1600-300x250">
+                        <script type="text/javascript">
+                        /*产品库下载壁纸等8频道1600托盘广告300*250,创建于 2017/8/1*/
+                        if (window.screen.width >= 1600) {
+                            if (typeof BAIDU_CLB_fillSlotAsync == 'function') {
+                                BAIDU_CLB_fillSlotAsync('u3048765', 'baidu-fixed-1600-300x250');
+                            } else {
+                                var script = document.createElement('script');
+                                script.src = 'http://cpro.baidustatic.com/cpro/ui/c.js';
+                                document.getElementById('baidu-fixed-1600-300x250').appendChild(script);
+                                setTimeout(function() {
+                                    BAIDU_CLB_fillSlotAsync('u3048765', 'baidu-fixed-1600-300x250');
+                                }, 1000);
+                            }
+                            document.getElementById('baidu-fixed-1600-300x250').parentNode.style.display='block';
+                        }
+                        </script><script src="http://cpro.baidustatic.com/cpro/ui/c.js"></script>
+                    </div>
+                </div><script>
+                    var _dxt = _dxt || [];
+                    var ipCk = $.cookie("ip_ck");
+                    ipCk = decodeURIComponent(ipCk);
+                    _dxt.push(["_setUserId",ipCk]);
+                    (function() { var hm = document.createElement("script");
+                        hm.src = "//datax.baidu.com/x.js?si=&dm=www.zol.com.cn";
+                        var s = document.getElementsByTagName("script")[0];
+                        s.parentNode.insertBefore(hm, s);
+                    })();
+                </script></div><div id="tagNavClone" class="navbox clearfix">
+		<!-- baidu-tc begin {"type":"CONTENT","action":"SHOW"}-->
+		<ul class="nav">
+					<li class="first"><a href="/cell_phone/index1167243.shtml" target="_self">综述介绍</a></li>
+
+					<li><a href="/1168/1167243/price.shtml" target="_self">报价</a></li>
+
+					<li><a href="http://redirect.simba.taobao.com/rd?c=un&amp;w=unionsem&amp;k=7bcedf94d74dc88d&amp;p=mm_26632772_24658887_83048278&amp;b=GAcxbdLC2I7zoOvKvcW&amp;s=&amp;f=https%3A%2F%2Fs.click.taobao.com%2FtsHfDZw" rel="nofollow" target="_blank" class="ol-tmall"><i class="ol-tmall-ico"></i>天猫超值</a></li>
+
+					<li><a href="/1168/1167243/pic.shtml" target="_self">图片<em>(720)</em></a></li>
+
+					<li class="active"><span>参数</span></li>
+					<li><a href="/1168/1167243/review.shtml" target="_self" class="ol-comment"><i class="ol-comment-ico"></i>点评<em>(269)</em></a></li>
+
+					<li><a href="/1168/1167243/article.shtml" target="_self">评测行情</a></li>
+
+					<li><a href="http://bbs.zol.com.cn/sjbbs/x1167243.html" target="_blank">论坛</a></li>
+
+					<li><a href="http://ask.zol.com.cn/product_1167243.html" target="_blank">问答</a></li>
+
+		
+		<li><a href="/1168/1167243/video.shtml" target="_self">视频</a></li>
+		            
+        			 
+			<li class="zplus-mall">
+				<a href="http://www.zol.com/list/pro1167243.html?spm=735.0" target="_blank" class="zplus-mall-true">ZOL商城</a>
+				<span class="zplus-nav-icon-tips"><em></em></span>
+			</li>
+					
+        
+		</ul>
+		<!-- baidu-tc end -->
+		
+				<div id="moreNav" class="more-nav">
+			<span>更多<i class="icon-darr"></i></span>
+			<div id="navList" class="more-nav-list">
+							<a href="/1168/1167243/sample.shtml" target="_self">样张</a>
+							<a href="/1168/1167243/sale.shtml" target="_self">促销</a>
+							<a href="/1168/1167243/fitting.shtml" target="_self">配件</a>
+							<a href="/1168/1167243/download.shtml" target="_self">下载</a>
+						</div>
+		</div>
+			</div>
+	
+<div class="adSpace" id="detail_param_bottom_tonglan" style="display: none;"><script>write_group_ad('detail_param_bottom_tonglan','2param_bottom_tonglan.inc',0,57,50840);</script><script>ad_w();</script></div>	
+<div id="J_ParamEdit" class="layerbox param-edit-layerbox">
+	<div class="layerbox-inner">
+		<div class="layerbox-header clearfix">
+			<h3 class="layerbox-title">参数纠错</h3>
+			<span class="close"></span>
+		</div>
+		<div class="layerbox-main">
+			<input type="hidden" id="hidePms">
+			<div id="batchEdit" class="batch-edit"></div>
+			<div id="singleEdit" class="param-edit-form hide">
+				<label id="paramKey"></label>
+				<div id="valBox"><textarea name="paramValue" id="paramValue" class="param-val"></textarea></div>
+			</div>
+			<div class="param-edit-form">
+				<label>参考网址</label>
+				<input type="text" name="paramUrl" id="paramUrl" class="txt" value="填写参考网址可大大增加您修改成功的机率！">
+			</div>
+			<div class="param-edit-form">
+				<label>验证码</label>
+				<input type="text" class="checkcode" name="checkcode" id="checkcode" maxlength="4">
+				<img width="80" height="20" alt="看不清?点击图片重新获取" id="codeimg">
+				<a id="refreshCode" href="javascript:void(0);" target="_self">刷新验证码</a>
+				<input type="hidden" name="hidecode" id="hidecode" value="">
+			</div>
+			<div class="layerbox-btns"><input id="popSub" type="button" class="confirmbtn" value="确认"><span class="canselbtn">取消</span></div>
+		</div>
+	</div>
+</div>
+
+<div id="J_ParamCody" class="layerbox param-mixed-layerbox">
+	<div class="layerbox-inner">
+		<div class="layerbox-header clearfix">
+			<h3 class="layerbox-title">复制自定义参数表格 自定义要复制表格的宽度、颜色、样式等，复制到您想放到的网页中的任何部位</h3>
+			<span class="close"></span>
+		</div>
+		<div class="layerbox-main">
+			<iframe id="ifraMixed" width="736" height="500" frameborder="0" data-url="/param_setting_1167243.html" scrolling="no"></iframe>
+		</div>
+	</div>
+</div>
+	
+<div id="param-intro" class="layerbox param-intro-layerbox hide">
+	<div class="layerbox-inner">
+		<div class="layerbox-header clearfix">
+			<span class="close">关闭</span>
+		</div>
+		<div class="layerbox-main">
+			<p>戴尔灵越15 7000(Ins15HD-2528)笔记本不足1英寸厚的时尚锻造铝合金设计搭配完美切。</p> 
+			<div class="button-box clearfix">
+				<a href="http://service.zol.com.cn/complain/" class="ask-button" target="_blank">我要提问</a>
+			</div>
+		</div> 
+	</div>
+</div>
+	
+<script>
+var zolproductid    = "1167243";           //产品id
+var zolproduct      = "荣耀9（4GB RAM/全网通）";   //产品型号
+var doveImgSrc      = 'http://2c.zol-img.com.cn/product/185_240x180/428/ceRXkU1hAk7ig.jpg';
+var zolPriceId      = '2000';
+var zolProvinceName = '';
+var zolCityName     = '';
+var zolProvinceId   = '';
+var zolCityId       = '';
+var zolSubName      = '手机';
+var zolManuCnName   = '荣耀';
+</script>
+
+
+<style type="text/css">.zol-global-footer{min-width:1000px; margin: 40px auto 0; background: #333; clear:both;}.zol-global-footer,.zol-global-footer *{float: none;}.zol-footer {float: none; height: 40px; min-width: 960px; overflow: hidden; float: none; clear: both; padding: 0 10px; background: #333; color: #ccc; text-align: left; font-size: 12px; font-family: arial; line-height: 40px;}.zol-footer *{float: none;}.zol-footer span {_display: inline; float:right; margin: 0 -7px 0 0; color:#666; font-family:"宋体"; font-size:10px; -webkit-text-size-adjust:none;}.zol-footer a{padding: 0 6px 0 7px; color:#ccc; text-decoration:none; font-family:Arial; font-size:12px;}.zol-footer a:hover{color:#ccc; text-decoration: underline;} .zol-footer i {display: none;}.zol-footer .footerw-2015{float: none; height: 40px; width:1000px; margin: 0 auto; line-height: 40px;}.zol-footer .footerw-2015 em{float:right; margin-left:10px; background:#666; color:#fff;padding:0 8px}.zol-global-footer-fixed{position: fixed; bottom: 0; left: 0; width: 100%;}</style><div id="zolGlobalFooter" class="zol-global-footer"><div class="zol-footer"><div class="footerw-2015"><span><a rel="nofollow" href="http://www.zol.com.cn/marketing/profile.html">公司简介</a>|<a rel="nofollow" href="http://www.zol.com.cn/marketing/milestone.html">公司历程</a>|<a rel="nofollow" href="http://e.zol.com.cn/">营销推广</a>|<a rel="nofollow" href="http://link.zol.com.cn/">媒体合作</a>|<a href="http://www.zol.com.cn/brand.html">品牌大全</a>|<a rel="nofollow" href="http://service.zol.com.cn/user/login.php?type=reg">帐号注册</a>|<a rel="nofollow" href="http://zhaopin.zol.com.cn/">招聘信息</a>|<a rel="nofollow" href="http://www.zol.com.cn/marketing/customer_service.html">联系方式</a>|<a rel="nofollow" href="http://service.zol.com.cn/user/privacy.php">隐私声明</a>|<a href="http://www.zol.com.cn/webcenter/map.html">站点地图</a>|<a rel="nofollow" href="http://service.zol.com.cn/complain/">反馈纠错</a></span>&nbsp;©2017 中关村在线 版权所有</div></div></div><script src="//icon.zol-img.com.cn/service/js/forceBindPhone.js"></script></body></html>
