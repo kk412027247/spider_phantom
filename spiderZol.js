@@ -67,8 +67,14 @@ const getDetail = async(url)=>{
 (async function(){
   const list = await getList('http://mobile.zol.com.cn/');
   console.log(list);
-  const url=  await getUrl('http://detail.zol.com.cn/cell_phone/index1181567.shtml');
-  console.log(url);
+
+  for (let item of list){
+    const url = await getUrl(item.url);
+    console.log(url);
+  }
+
+  // const url=  await getUrl('http://detail.zol.com.cn/cell_phone/index1181567.shtml');
+  // console.log(url);
   const detail = await getDetail('http://detail.zol.com.cn/1182/1181567/param.shtml');
   console.log(detail);
 }());
